@@ -24,3 +24,6 @@
 ## 31 oct, seara: cursurile AI scoase de pe Produse
 
 - Produse (block `n`): cardul cursurilor AI, sectiunea "Ce spun cursantii" despre AI si intrebarile din FAQ despre AI au fost scoase. "Alte produse" are acum doar Motorul de Reels si ghidurile gratuite. Oferta ZnmrPRqa ramane publicata in Kajabi (linkurile vechi inca merg).
+- /despre si /biblioteca (block `x` = biblioteca-despre-patch.js): cardul "Job Remote in 90 de zile, 1.497 EUR" inlocuit cu Challenge-ul de 97 EUR, banda de anunt fara "Program nou", link "Vezi pachetele" catre /produse.
+- Butonul din header: "Job Remote in 90 de zile" catre /produse#program inlocuit cu "Vezi pachetele" pe /despre, /biblioteca si /produse.
+- /kit-job-remote-resurse: header-ul avea logo "Nova" si butonul implicit "Get started"; acum "flavia popescu" si "Toate produsele".
