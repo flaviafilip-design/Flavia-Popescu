@@ -14,6 +14,11 @@ Linkuri folosite:
 - Sesiune de strategie 45 min, 97 €: https://www.flaviapopescu.eu/offers/dnWSMKFM/checkout
 - Job Remote in 90 de zile, 1.497 €: https://www.flaviapopescu.eu/offers/FkuewFSZ/checkout
 - Job Remote in 90 de zile, 3 x 549 €: https://www.flaviapopescu.eu/offers/aBLM4Qgo/checkout
+- Yago (cont gratuit si Pro): https://www.yagocareers.io/ro
+
+DE CONFIRMAT inainte de upload: pretul Yago Pro. In text apare ca [PRET YAGO PRO].
+
+Yago in emailuri: in lectii apare ca instrumentul care face sarcina mai repede (Resume Lab, evaluator LinkedIn, Interview Prep, verificarea unui job). Contul gratuit e mereu primul pas. Pro se vinde doar dupa ce omul a folosit Yago.
 
 | Secventa | Emailuri | Predare | Vanzare |
 |---|---|---|---|
@@ -21,6 +26,8 @@ Linkuri folosite:
 | B. Dupa Kit | 5 | B1 la B4 | B5 |
 | C. Dupa Challenge | 4 | C1, C2 | C3, C4 |
 | D. Dupa sesiune | 3 | D1, D2 | D3 |
+| E. Yago: dupa cele 5 zile Pro din Challenge | 4 | E1 la E3 | E4 (Yago Pro, lunar) |
+| F. Program 90 de zile: ziua 80 | 1 |  | F1 (Yago Pro dupa program) |
 
 ---
 
@@ -73,6 +80,8 @@ Un om ne-a scris dupa ce a schimbat doar asta: "Am fost personal la 5 manageri d
 
 Sarcina de azi: rescrie cele 3 fraze dupa formula. Daca nu ai cifre exacte, foloseste aproximari oneste: "aproximativ 40 de clienti pe luna".
 
+Vrei sa vezi cum arata CV-ul pentru un recrutor? Incarca-l in Yago Resume Lab. Iti arata ce lipseste fata de rolul tinta. Contul gratuit e suficient pentru prima verificare. [Deschide Yago](https://www.yagocareers.io/ro)
+
 Data viitoare: LinkedIn-ul, ca sa te gaseasca recrutorii pe tine.
 
 Flavia si Catalin
@@ -97,6 +106,8 @@ Recrutorii cauta pe LinkedIn dupa cuvinte cheie si locatie. Daca profilul tau nu
 Bonus: sectiunea "Despre" incepe cu aceleasi 3 fraze din CV. CV-ul si LinkedIn-ul spun aceeasi poveste. Recrutorii verifica asta.
 
 Sarcina de azi: schimba titlul si locatia. 15 minute.
+
+Dupa ce schimbi, verifica profilul cu evaluatorul LinkedIn din Yago. Iti spune ce sectiuni sunt slabe si ce cuvinte cheie lipsesc. [Verifica profilul in Yago](https://www.yagocareers.io/ro)
 
 Data viitoare: mesajul pe care il trimiti recrutorului dupa ce aplici. Asta face cea mai mare diferenta.
 
@@ -186,6 +197,8 @@ Garantia: daca aplici dupa plan si nu primesti niciun interviu in 90 de zile, lu
 Nu esti sigur? Rezerva o sesiune de strategie de 45 de minute. Cei 97 € se scad din program daca il alegi in 7 zile.
 [Rezerv sesiunea](https://www.flaviapopescu.eu/offers/dnWSMKFM/checkout)
 
+Preferi sa lucrezi singur, in ritmul tau? Yago Pro iti da Resume Lab, evaluatorul LinkedIn si Interview Prep nelimitat, pentru [PRET YAGO PRO] pe luna. Opresti oricand. [Vezi Yago Pro](https://www.yagocareers.io/ro)
+
 Oricum alegi, lectiile din emailurile trecute raman ale tale. Aplica-le.
 
 Flavia si Catalin
@@ -248,6 +261,8 @@ Ce repari de obicei:
 Al doilea pas: ia un anunt care iti place si subliniaza cuvintele cheie. Verifica daca apar si in CV-ul tau, cu aceleasi cuvinte.
 
 Template-ul din kit trece deja testul. Il gasesti pe [pagina cu resursele](https://www.flaviapopescu.eu/kit-job-remote-resurse).
+
+Vrei sa compari CV-ul cu un anunt anume, nu doar cu "ochiul liber"? In Yago Resume Lab pui CV-ul si anuntul si vezi ce cuvinte cheie lipsesc. Contul gratuit ajunge pentru inceput. [Deschide Yago](https://www.yagocareers.io/ro)
 
 Flavia si Catalin
 
@@ -318,6 +333,9 @@ Daca raspunsurile nu vin inca, de obicei e una din doua situatii:
 2. Nu stii ce sa schimbi. In sesiunea de strategie ne uitam la CV si la LinkedIn inainte de apel. In 45 de minute pleci cu 3 pasi clari. Sesiunile au loc de luni pana vineri, intre 11:00 si 17:00, ora Romaniei. 97 €, care se scad din orice pachet de peste 350 €, in 7 zile.
 [Rezerv sesiunea](https://www.flaviapopescu.eu/offers/dnWSMKFM/checkout)
 
+3. Vrei sa lucrezi singur, dar cu unelte. Yago Pro: Resume Lab, evaluator LinkedIn si Interview Prep nelimitat, [PRET YAGO PRO] pe luna. Opresti oricand.
+[Vezi Yago Pro](https://www.yagocareers.io/ro)
+
 Ai o intrebare? Raspunde la acest email.
 
 Flavia si Catalin
@@ -350,6 +368,8 @@ Ritmul pe zile:
 Tabelul tau are 6 coloane: companie, rol, data aplicarii, mesaj trimis, follow-up, raspuns.
 
 Dupa 2 saptamani te uiti la tabel. Daca ai sub 2 raspunsuri din 20, problema e la CV sau la roluri. Daca ai raspunsuri dar nu treci de primul interviu, problema e la interviu.
+
+Inainte sa aplici, verifica jobul: e remote pentru Romania sau doar pentru SUA? Cere un fus orar anume? Verificarea jobului din Yago iti raspunde in cateva secunde, ca sa nu pierzi timp pe anunturi care nu te accepta. [Verifica un job in Yago](https://www.yagocareers.io/ro)
 
 Data viitoare: ce spui cand te intreaba de salariu.
 
@@ -429,6 +449,8 @@ Garantia: daca aplici dupa plan si nu primesti niciun interviu in 90 de zile, lu
 
 Flavia si Catalin
 
+P.S. Accesul la Yago Pro din Challenge s-a terminat? Il poti pastra pentru [PRET YAGO PRO] pe luna. [Pastrez Yago Pro](https://www.yagocareers.io/ro)
+
 ---
 
 ## D. Dupa sesiunea de strategie
@@ -496,5 +518,139 @@ Daca vrei sa aplici planul din sesiune cu noi alaturi, Job Remote in 90 de zile 
 Cei 97 € platiti pentru sesiune se scad din pret, daca alegi programul in 7 zile de la apel. Raspunde la acest email inainte sa cumperi si iti trimitem linkul cu reducerea.
 
 [Vreau programul](https://www.flaviapopescu.eu/offers/FkuewFSZ/checkout)
+
+Flavia si Catalin
+
+---
+
+## E. Yago: dupa cele 5 zile Pro din Challenge
+
+Declansator: cumpara Challenge-ul (97 € sau 197 €). Pornesc in ziua 5, cand se termina accesul gratuit la Yago Pro.
+Scop: 3 lectii in care Yago face munca, apoi abonamentul Yago Pro.
+Iesire: activeaza Yago Pro sau cumpara programul de 90 de zile.
+
+### E1. Ziua 5 · Predare: cum exersezi interviul fara raspunsuri invatate pe de rost
+
+Subiect: Nu invata raspunsurile pe de rost. Fa asta.
+Preview: Metoda STAR, plus cum exersezi cu feedback, nu cu un text generat.
+
+Salut {{ first_name | default: "" }},
+
+Multi isi cer raspunsuri gata scrise si le invata pe de rost. In interviu se simte. Recrutorul pune o intrebare de clarificare si totul se blocheaza.
+
+Ce functioneaza: 5 povesti din experienta ta, spuse cu metoda STAR.
+- Situatia: unde erai, in 1 propozitie
+- Task: ce trebuia sa rezolvi
+- Actiunea: ce ai facut TU, nu echipa
+- Rezultatul: cu cifra
+
+Cele 5 povesti acopera aproape orice intrebare: un conflict, o greseala, un rezultat de care esti mandru, o schimbare grea, un client dificil.
+
+Cum exersezi: spui povestea cu voce tare, primesti feedback, o spui din nou mai scurt. In Yago Interview Prep primesti intrebarea, raspunzi si vezi ce a lipsit din raspuns.
+
+Sarcina de azi: scrie cele 5 titluri de povesti. Doar titlurile.
+
+[Exerseaza in Yago Interview Prep](https://www.yagocareers.io/ro)
+
+Flavia si Catalin
+
+### E2. Ziua 7 · Predare: verifica un job in 90 de secunde
+
+Subiect: 3 semne ca un job "remote" nu e pentru tine
+Preview: Inainte sa scrii o scrisoare de intentie, verifica asta.
+
+Salut {{ first_name | default: "" }},
+
+Multe anunturi scriu "remote", dar accepta doar oameni din anumite tari. Pierzi o ora pe aplicatie si primesti un refuz automat.
+
+3 semne de verificat inainte sa aplici:
+1. "Remote (US)" sau "Remote, EMEA"? Cauta tara sau regiunea in titlu si in sectiunea despre locatie.
+2. Fusul orar. "Must overlap with PST" inseamna program pana noaptea tarziu din Romania.
+3. Tipul de contract. Angajare prin EOR, contract de contractor sau doar angajati locali? Cauta "EOR", "contractor", "must be authorized to work in".
+
+Daca un anunt pica la unul dintre ele, treci mai departe.
+
+Verificarea jobului din Yago face asta pentru tine: lipesti anuntul si vezi daca e potrivit pentru Romania si pentru profilul tau.
+
+Sarcina de azi: verifica 5 joburi din tabel. Sterge-le pe cele care nu te accepta.
+
+[Verifica un job in Yago](https://www.yagocareers.io/ro)
+
+Flavia si Catalin
+
+### E3. Ziua 9 · Predare: CV-ul adaptat pentru fiecare aplicatie, in 10 minute
+
+Subiect: Un CV pentru fiecare job, fara sa-l rescrii de la zero
+Preview: Ce schimbi si ce lasi la fel, ca sa nu pierzi o ora pe aplicatie.
+
+Salut {{ first_name | default: "" }},
+
+Un CV adaptat la anunt primeste mai multe raspunsuri. Dar nu trebuie rescris de fiecare data.
+
+Ce schimbi la fiecare aplicatie:
+- primele 3 fraze, cu titlul rolului din anunt
+- 3 la 5 cuvinte cheie din anunt, puse in experienta si la skills
+- ordinea rezultatelor: cel mai relevant pentru anunt, primul
+
+Ce lasi la fel: structura, educatia, restul experientei.
+
+Cu o versiune de baza buna, adaptarea dureaza 10 minute.
+
+In Yago Resume Lab pastrezi versiunea de baza si faci cate o varianta pentru fiecare anunt. Vezi cuvintele cheie lipsa si scorul inainte sa trimiti.
+
+Sarcina de azi: adapteaza CV-ul pentru urmatoarea aplicatie, in maxim 10 minute.
+
+[Deschide Resume Lab](https://www.yagocareers.io/ro)
+
+Flavia si Catalin
+
+### E4. Ziua 11 · Vanzare: Yago Pro, lunar
+
+Subiect: Pastreaza Yago Pro cat timp cauti job
+Preview: Resume Lab, evaluator LinkedIn si Interview Prep nelimitat. Opresti oricand.
+
+Salut {{ first_name | default: "" }},
+
+In ultimele zile ai folosit Yago pentru 3 lucruri: ai exersat interviul, ai verificat joburi si ai adaptat CV-ul.
+
+In timpul Challenge-ului ai avut Yago Pro gratuit. Contul gratuit ramane al tau. Daca vrei sa pastrezi totul nelimitat cat timp aplici, ai Yago Pro:
+- Resume Lab, cu o varianta de CV pentru fiecare anunt
+- evaluatorul LinkedIn
+- Interview Prep nelimitat, cu feedback
+- verificarea joburilor
+
+[PRET YAGO PRO] pe luna. Opresti cand ai jobul.
+
+[Activez Yago Pro](https://www.yagocareers.io/ro)
+
+Vrei sa facem noi partea grea? Programul Job Remote in 90 de zile include Yago 90 de zile, plus CV-ul si LinkedIn-ul scrise de noi.
+[Vezi programul](https://www.flaviapopescu.eu/offers/FkuewFSZ/checkout)
+
+Flavia si Catalin
+
+---
+
+## F. Program 90 de zile: ziua 80
+
+Declansator: cumpara Job Remote in 90 de zile (oricare varianta). Un singur email, in ziua 80.
+Scop: pastreaza Yago dupa cele 90 de zile incluse.
+Iesire: activeaza Yago Pro.
+
+### F1. Ziua 80 · Vanzare: pastreaza Yago dupa program
+
+Subiect: Accesul tau la Yago se termina in 10 zile
+Preview: Ce se intampla cu CV-urile si exercitiile tale dupa ziua 90.
+
+Salut {{ first_name | default: "" }},
+
+Ai inca 10 zile din cele 90 de Yago incluse in program.
+
+Contul tau gratuit ramane. CV-urile si istoricul raman acolo. Dupa ziua 90 se opresc functiile Pro: variantele nelimitate de CV, evaluatorul LinkedIn si Interview Prep nelimitat.
+
+Daca esti inca in interviuri sau negociezi o oferta, pastreaza Yago Pro pentru [PRET YAGO PRO] pe luna. Opresti oricand.
+
+[Pastrez Yago Pro](https://www.yagocareers.io/ro)
+
+Ai deja jobul? Scrie-ne pe WhatsApp, vrem sa aflam! Raspundem de luni pana vineri, intre 11:00 si 17:00, ora Romaniei.
 
 Flavia si Catalin
