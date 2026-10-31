@@ -18,7 +18,6 @@ Linkuri folosite:
 
 Planuri Yago (de pe yagocareers.io):
 - Pro, 19 €/luna: scanare CV nelimitata, CV Builder, Joburi Remote (anunturi noi zilnic). Potrivire CV si job: in curand.
-- Comunitatea AI, 27 €/luna: tot din Pro, 2 sesiuni Live de interviu cu AI pe luna, traininguri live si comunitate.
 - Sesiuni Live de interviu cu AI: add-on pe baza de tokenuri.
 
 Yago in emailuri: in lectii apare ca instrumentul care face sarcina mai repede. Promitem doar ce scrie pe pagina de preturi. Contul gratuit e primul pas. Pro se vinde doar dupa ce omul a folosit Yago.
@@ -29,7 +28,7 @@ Yago in emailuri: in lectii apare ca instrumentul care face sarcina mai repede. 
 | B. Dupa Kit | 5 | B1 la B4 | B5 |
 | C. Dupa Challenge | 4 | C1, C2 | C3, C4 |
 | D. Dupa sesiune | 3 | D1, D2 | D3 |
-| E. Yago: dupa cele 5 zile din Challenge | 4 | E1 la E3 | E4 (Pro 19 € sau Comunitatea AI 27 €) |
+| E. Yago: dupa cele 5 zile din Challenge | 4 | E1 la E3 | E4 (Yago Pro 19 €) |
 | F. Program 90 de zile: ziua 80 | 1 |  | F1 (Yago Pro dupa program) |
 
 ---
@@ -527,7 +526,7 @@ Flavia si Catalin
 ## E. Yago: dupa cele 5 zile din Challenge
 
 Declansator: cumpara Challenge-ul (97 € sau 197 €). Pornesc in ziua 5, cand se termina accesul gratuit la Yago.
-Scop: 3 lectii in care Yago face munca, apoi Yago Pro (19 €) sau Comunitatea AI (27 €).
+Scop: 3 lectii in care Yago face munca, apoi Yago Pro (19 €).
 Iesire: activeaza Yago Pro sau cumpara programul de 90 de zile.
 
 ### E1. Ziua 5 · Predare: cum exersezi interviul fara raspunsuri invatate pe de rost
@@ -616,21 +615,15 @@ Salut {{ first_name | default: "" }},
 
 In ultimele zile ti-am aratat 3 lucruri: cum exersezi interviul, cum verifici un job si cum adaptezi CV-ul in 10 minute.
 
-In timpul Challenge-ului ai avut acces gratuit la Yago. Daca vrei sa continui cat timp aplici, ai doua variante:
+In timpul Challenge-ului ai avut acces gratuit la Yago. Daca vrei sa continui cat timp aplici, ai Yago Pro, 19 € pe luna:
 
-Yago Pro, 19 € pe luna, pentru cautarea activa:
 - scanare CV nelimitata: corectezi si rescanezi pana e impecabil
 - CV Builder: CV curat, gata de trimis, in cateva minute
 - Joburi Remote: anunturile noi apar zilnic, intr-un singur loc
 
+Te pregatesti de interviuri? Din contul Pro deblochezi si sesiuni Live de interviu cu AI.
+
 [Aleg Yago Pro](https://www.yagocareers.io/ro)
-
-Comunitatea AI, 27 € pe luna, daca te pregatesti de interviuri:
-- tot din Pro, inclus
-- 2 sesiuni Live de interviu cu AI pe luna
-- traininguri live si oameni care trec prin aceeasi cautare
-
-[Intru in Comunitatea AI](https://www.yagocareers.io/ro)
 
 Opresti oricand, cand ai jobul.
 
@@ -658,7 +651,7 @@ Ai inca 10 zile din cele 90 de Yago incluse in program.
 
 Dupa ziua 90 se opresc functiile Pro: scanarea CV nelimitata, CV Builder si Joburi Remote.
 
-Daca esti inca in cautare, pastreaza Yago Pro pentru 19 € pe luna. Daca ai interviuri in curand, Comunitatea AI costa 27 € pe luna si include 2 sesiuni Live de interviu cu AI. Opresti oricand.
+Daca esti inca in cautare, pastreaza Yago Pro pentru 19 € pe luna. Daca ai interviuri in curand, din contul Pro deblochezi si sesiuni Live de interviu cu AI. Opresti oricand.
 
 [Pastrez Yago](https://www.yagocareers.io/ro)
 
