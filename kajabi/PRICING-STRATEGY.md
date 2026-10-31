@@ -11,7 +11,7 @@
 | 2 | Sesiune de strategie 45 min (se scade din pachete > 350 €, 7 zile) | 97 € | dnWSMKFM |
 | 3 | AI, 2 cursuri | 175 € / 3 x 60 € | ZnmrPRqa |
 | 4 | CV & LinkedIn Done for you (neschimbat) | 375 € / 3 x 130 € | SDkcqjMh |
-| 5 | Job Remote in 90 de zile, cu garantie | 1.497 € / 3 x 549 € | uCPjjNDW / hLQzpKNj |
+| 5 | Job Remote in 90 de zile, cu garantie | 1.497 € / 3 x 549 € | FkuewFSZ / aBLM4Qgo |
 | Creatori | Motorul de Reels | 127 € | oVEQCkep |
 
 ## Retrase
