@@ -8,7 +8,7 @@
 | 1 | Kitul Job Remote (inlocuieste ghidul de 10 €) | 27 € | 3DKRXN3L |
 | 2 | Challenge 5 zile (evergreen) | 97 € | PySKts39 |
 | 2+ | Feedback WhatsApp 30 zile (add-on) | 100 € | bundle 197 €: bLPbbn4U |
-| 2 | Sesiune de strategie 45 min (se scade din pachete > 350 €, 7 zile) | 97 € | dnWSMKFM |
+| 2 | Coaching de cariera pentru joburi remote 45 min (se scade din pachete > 350 €, 7 zile) | 97 € | dnWSMKFM |
 | 3 | AI, 2 cursuri | 175 € / 3 x 60 € | ZnmrPRqa |
 | 4 | CV & LinkedIn Done for you (neschimbat) | 375 € / 3 x 130 € | SDkcqjMh |
 | 5 | Job Remote in 90 de zile: RETRAS 31 oct (nepublicat) | 1.497 € / 3 x 549 € | FkuewFSZ / aBLM4Qgo |
