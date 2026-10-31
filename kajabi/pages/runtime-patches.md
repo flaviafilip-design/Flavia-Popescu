@@ -20,3 +20,7 @@
 - Acasa (theme 2167772504, fl-home): block nou `lp` = kajabi/pages/landing-remote.html (minificat la upload). block_order = ["lp"]. Blocurile vechi b,x,p,t,r,f,w,e,s,v,d,g raman salvate in tema. Revenire: block_order = ["b","x","p","t","r","f","w","e","s","v","d","g"].
 - Structura: hero cu o promisiune, 3 probleme, "Ce poti cumpara" (alegere in 3 randuri + 3 carduri cu pret, cine lucreaza, durata, ce primesti), coaching 97 EUR, ce se intampla dupa plata, 6 mesaje reale, despre Flavia si Catalin, Yago 19 EUR/luna, FAQ, CTA final. Buton fix pe telefon "Vezi pachetele, de la 27 EUR".
 - Produse (theme 2167795763, fl-page): block nou `n` = kajabi/pages/produse-landing.html. block_order = ["n"]. Revenire: ["b","p","c"]. Aceleasi 3 pachete + "Alte produse": cursurile AI 175 EUR, Motorul de Reels 127 EUR, ghiduri gratuite.
+
+## 31 oct, seara: cursurile AI scoase de pe Produse
+
+- Produse (block `n`): cardul cursurilor AI, sectiunea "Ce spun cursantii" despre AI si intrebarile din FAQ despre AI au fost scoase. "Alte produse" are acum doar Motorul de Reels si ghidurile gratuite. Oferta ZnmrPRqa ramane publicata in Kajabi (linkurile vechi inca merg).
