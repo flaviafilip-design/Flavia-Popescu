@@ -53,13 +53,13 @@ Paginile de cariere stau de obicei pe 3 platforme: Greenhouse, Lever si Ashby. L
 
 Copiaza asta in Google si schimba rolul:
 
-site:boards.greenhouse.io "customer success" remote
+`site:boards.greenhouse.io "customer success" remote`
 
 Apoi incearca la fel cu jobs.lever.co si jobs.ashbyhq.com.
 
 Sarcina de azi, 10 minute: fa cele 3 cautari pentru rolul tau si salveaza 5 joburi intr-un tabel. Coloanele: companie, rol, link, data.
 
-Maine iti arat ce scrii in primele 3 fraze din CV, ca sa treci de primele secunde.
+Peste doua zile iti arat ce scrii in primele 3 fraze din CV, ca sa treci de primele secunde.
 
 Flavia si Catalin
 
@@ -156,10 +156,10 @@ Unii ne-au spus ca vor sa faca pasii astia cu cineva care ii ghideaza zi de zi. 
 Un participant ne-a scris dupa: "Am aplicat la 8 joburi saptamana trecuta si am primit interviuri la 5 dintre ele. De 7 luni tot caut si nimic."
 
 Ce faci in cele 5 zile:
-- Ziua 1: CV-ul, scanat in Yago CV Lab, cu scor
+- Ziua 1: CV-ul, rescris si scanat in Yago
 - Ziua 2: LinkedIn-ul, aliniat cu CV-ul
 - Ziua 3: scrisoarea de intentie si prima aplicatie
-- Ziua 4: interviul, cu metoda STAR si practica cu AI
+- Ziua 4: interviul, cu metoda STAR
 - Ziua 5: unde aplici si cum functioneaza angajarea prin EOR
 
 13 video-uri scurte, in romana. Incepi imediat dupa plata.
@@ -320,15 +320,15 @@ Flavia si Catalin
 ### B5. Ziua 9 · Vanzare: pasul urmator
 
 Subiect: Ai trimis primele aplicatii. Ce urmeaza?
-Preview: Doua variante, in functie de unde te-ai blocat.
+Preview: 3 variante, in functie de unde te-ai blocat.
 
 Salut {{ first_name | default: "" }},
 
 Daca ai urmat planul, ai acum CV-ul rescris, LinkedIn-ul aliniat, 3 roluri tinta si primele aplicatii trimise. Bravo!
 
-Daca raspunsurile nu vin inca, de obicei e una din doua situatii:
+Daca raspunsurile nu vin inca, alege varianta care ti se potriveste:
 
-1. Nu stii daca CV-ul e destul de bun. In Challenge-ul de 5 zile il scanezi in Yago CV Lab, primesti scorul si repari. Exersezi si interviul cu AI. 97 €, sau 197 € cu 30 de zile de feedback de la noi pe WhatsApp.
+1. Nu stii daca CV-ul e destul de bun. In Challenge-ul de 5 zile il rescrii pas cu pas si il scanezi in Yago pana e impecabil. Exersezi si interviul, cu metoda STAR. 97 €, sau 197 € cu 30 de zile de feedback de la noi pe WhatsApp.
 [Incep Challenge-ul](https://www.flaviapopescu.eu/offers/PySKts39/checkout)
 
 2. Nu stii ce sa schimbi. In sesiunea de strategie ne uitam la CV si la LinkedIn inainte de apel. In 45 de minute pleci cu 3 pasi clari. Sesiunile au loc de luni pana vineri, intre 11:00 si 17:00, ora Romaniei. 97 €, care se scad din orice pachet de peste 350 €, in 7 zile.
@@ -504,14 +504,14 @@ Flavia si Catalin
 
 ### D3. Ziua 4 · Vanzare: programul, cu cei 97 € scazuti
 
-Subiect: Cei 97 € se scad din program inca 3 zile
+Subiect: Cei 97 € se scad din program, 7 zile de la apel
 Preview: Daca vrei sa aplici planul cu noi alaturi, acum e momentul.
 
 Salut {{ first_name | default: "" }},
 
 Daca vrei sa aplici planul din sesiune cu noi alaturi, Job Remote in 90 de zile e pasul urmator:
 - CV-ul si LinkedIn-ul scrise integral de noi
-- Yago 90 de zile si cele 2 cursuri de AI
+- Yago Pro 90 de zile si cele 2 cursuri de AI
 - 2 sesiuni video: start si simulare de interviu
 - feedback pe WhatsApp 90 de zile, de luni pana vineri, intre 11:00 si 17:00, ora Romaniei
 - garantie: interviuri in 90 de zile, sau lucram cu tine gratuit pana primesti
@@ -665,3 +665,7 @@ Daca esti inca in cautare, pastreaza Yago Pro pentru 19 € pe luna. Daca ai int
 Ai deja jobul? Scrie-ne pe WhatsApp, vrem sa aflam! Raspundem de luni pana vineri, intre 11:00 si 17:00, ora Romaniei.
 
 Flavia si Catalin
+
+---
+
+In Kajabi (draft, 31 octombrie 2026): secventele "Remote v2 A" pana la "Remote v2 F", 23 de emailuri, trimise la 10:00 ora Romaniei.
