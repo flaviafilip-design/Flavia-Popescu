@@ -31,8 +31,9 @@
 
 <div class="box" id="cv"><p class="label">2</p><h2>Template de CV <em>compatibil ATS</em></h2>
 <p>Recrutorii internationali citesc CV-ul in engleza. Sistemele ATS citesc doar text simplu. Reguli: o coloana, fara tabele, fara poze, fara grafice, font Arial sau Calibri 10 la 12, maxim 2 pagini, salvat ca PDF cu numele Prenume_Nume_CV.pdf.</p>
-<p>Copiaza structura de mai jos intr-un document Google Docs sau Word si inlocuieste textul dintre paranteze.</p>
-<pre>FIRSTNAME LASTNAME
+<p>Descarca template-ul in Word sau copiaza textul in Google Docs. Inlocuieste textul dintre paranteze.</p>
+<div style="display:flex;flex-wrap:wrap;gap:.6rem"><a class="btn" href="#cv" id="kr-cv-doc">Descarca template-ul (Word)</a><a class="btn" href="#cv" id="kr-cv-copy" style="background:var(--ink)">Copiaza textul</a></div>
+<pre id="kr-cv-text">FIRSTNAME LASTNAME
 (Target role, ex: Customer Success Manager) | Remote | (City, Romania)
 (email) | (phone with +40) | linkedin.com/in/(your-url)
 
@@ -127,9 +128,30 @@ Hi (Name), (Company) is on my list of top remote-first companies. I am a (role) 
 </ol></div>
 
 <div class="box pink"><p class="label">Pasul urmator</p><h2>Vrei sa mergi <em>mai repede?</em></h2>
-<p>In Challenge-ul de 5 zile iti refaci CV-ul, LinkedIn-ul, scrisoarea de intentie si pregatirea de interviu, cu 13 video-uri si acces gratuit la Yago: CV Lab, evaluator LinkedIn si practica de interviu cu AI.</p>
+<p>In Challenge-ul de 5 zile iti refaci CV-ul, LinkedIn-ul, scrisoarea de intentie si pregatirea de interviu, cu 13 video-uri si acces gratuit la Yago Pro: scanare CV nelimitata, CV Builder si joburi remote noi in fiecare zi.</p>
 <p style="font-family:'Playfair Display',Georgia,serif;font-style:italic">"Am aplicat la 8 joburi saptamana trecuta si am primit interviuri la 5 dintre ele. De 7 luni tot caut si nimic." Mesaj real dupa Challenge</p>
 <a class="btn" href="https://www.flaviapopescu.eu/offers/PySKts39/checkout">Incep Challenge-ul, 97 EUR</a></div>
 
 <p>Intrebari? Scrie-ne la <a href="mailto:info@flaviapopescu.eu">info@flaviapopescu.eu</a>. Cu drag, Flavia si Catalin</p>
 </div></div>
+<script>
+(function(){
+ var pre=document.getElementById('kr-cv-text'); if(!pre) return;
+ function esc(t){return t.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+ var d=document.getElementById('kr-cv-doc');
+ if(d) d.addEventListener('click',function(e){e.preventDefault();
+  var lines=pre.textContent.split('\n'),h='';
+  lines.forEach(function(l){var t=esc(l);
+   if(/^[A-Z][A-Z ]+$/.test(l.trim())&&l.trim().length>3) h+='<p style="margin:12pt 0 4pt;font-weight:bold;font-size:12pt">'+t+'</p>';
+   else if(l.trim()==='') h+='';
+   else h+='<p style="margin:0 0 4pt">'+t+'</p>';});
+  var html='<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word"><head><meta charset="utf-8"><title>CV template ATS</title></head><body style="font-family:Arial,sans-serif;font-size:11pt">'+h+'</body></html>';
+  var blob=new Blob(['\ufeff',html],{type:'application/msword'});
+  var a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download='CV_template_ATS.doc';
+  document.body.appendChild(a); a.click(); setTimeout(function(){URL.revokeObjectURL(a.href); a.remove();},500);});
+ var c=document.getElementById('kr-cv-copy');
+ if(c) c.addEventListener('click',function(e){e.preventDefault();
+  var done=function(){c.textContent='Copiat!'; setTimeout(function(){c.textContent='Copiaza textul';},2000);};
+  if(navigator.clipboard) navigator.clipboard.writeText(pre.textContent).then(done); else {var r=document.createRange(); r.selectNodeContents(pre); var sel=getSelection(); sel.removeAllRanges(); sel.addRange(r); document.execCommand('copy'); done();}});
+})();
+</script>
