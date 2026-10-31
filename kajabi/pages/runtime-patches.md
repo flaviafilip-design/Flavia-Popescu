@@ -27,3 +27,11 @@
 - /despre si /biblioteca (block `x` = biblioteca-despre-patch.js): cardul "Job Remote in 90 de zile, 1.497 EUR" inlocuit cu Challenge-ul de 97 EUR, banda de anunt fara "Program nou", link "Vezi pachetele" catre /produse.
 - Butonul din header: "Job Remote in 90 de zile" catre /produse#program inlocuit cu "Vezi pachetele" pe /despre, /biblioteca si /produse.
 - /kit-job-remote-resurse: header-ul avea logo "Nova" si butonul implicit "Get started"; acum "flavia popescu" si "Toate produsele".
+
+## 31 oct, noapte: designul vechi pus inapoi pe Acasa
+
+- Flavia nu a vrut poza noua (flavia-business.jpg) si designul nou. A ales: pastreaza structura cu pachete, dar cu designul vechi.
+- Acasa (theme 2167772504, fl-home): block_order = ["b2","lp2"].
+  - b2 = partea de sus din designul vechi, refacuta din copia de la 14:09 (home/blocks.json, block b + p): bara de anunt, meniul, hero "Buna, sunt Flavia" cu poza din arcada (terasa la apus), video, banda cu cifre, "Am fost de partea cealalta a mesei", footer. Textele vechi despre program si cursuri AI sunt scoase direct din cod.
+  - lp2 = sectiunile cu pachete (probleme, Kit/Challenge/CV, coaching, pasi, mesaje reale, Yago, FAQ, final) in culorile si fonturile designului vechi. Un script muta lp2 inainte de footer.
+- Blocurile vechi b, x, p, t etc. NU mai exista in tema (Kajabi le-a sters cand block_order a devenit ["lp"]). Copia lor e in scratchpad home/blocks.json si in pages/acasa-backup-*.json.
