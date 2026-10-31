@@ -16,9 +16,12 @@ Linkuri folosite:
 - Job Remote in 90 de zile, 3 x 549 €: https://www.flaviapopescu.eu/offers/aBLM4Qgo/checkout
 - Yago (cont gratuit si Pro): https://www.yagocareers.io/ro
 
-DE CONFIRMAT inainte de upload: pretul Yago Pro. In text apare ca [PRET YAGO PRO].
+Planuri Yago (de pe yagocareers.io):
+- Pro, 19 €/luna: scanare CV nelimitata, CV Builder, Joburi Remote (anunturi noi zilnic). Potrivire CV si job: in curand.
+- Comunitatea AI, 27 €/luna: tot din Pro, 2 sesiuni Live de interviu cu AI pe luna, traininguri live si comunitate.
+- Sesiuni Live de interviu cu AI: add-on pe baza de tokenuri.
 
-Yago in emailuri: in lectii apare ca instrumentul care face sarcina mai repede (Resume Lab, evaluator LinkedIn, Interview Prep, verificarea unui job). Contul gratuit e mereu primul pas. Pro se vinde doar dupa ce omul a folosit Yago.
+Yago in emailuri: in lectii apare ca instrumentul care face sarcina mai repede. Promitem doar ce scrie pe pagina de preturi. Contul gratuit e primul pas. Pro se vinde doar dupa ce omul a folosit Yago.
 
 | Secventa | Emailuri | Predare | Vanzare |
 |---|---|---|---|
@@ -26,7 +29,7 @@ Yago in emailuri: in lectii apare ca instrumentul care face sarcina mai repede (
 | B. Dupa Kit | 5 | B1 la B4 | B5 |
 | C. Dupa Challenge | 4 | C1, C2 | C3, C4 |
 | D. Dupa sesiune | 3 | D1, D2 | D3 |
-| E. Yago: dupa cele 5 zile Pro din Challenge | 4 | E1 la E3 | E4 (Yago Pro, lunar) |
+| E. Yago: dupa cele 5 zile din Challenge | 4 | E1 la E3 | E4 (Pro 19 € sau Comunitatea AI 27 €) |
 | F. Program 90 de zile: ziua 80 | 1 |  | F1 (Yago Pro dupa program) |
 
 ---
@@ -80,7 +83,7 @@ Un om ne-a scris dupa ce a schimbat doar asta: "Am fost personal la 5 manageri d
 
 Sarcina de azi: rescrie cele 3 fraze dupa formula. Daca nu ai cifre exacte, foloseste aproximari oneste: "aproximativ 40 de clienti pe luna".
 
-Vrei sa vezi cum arata CV-ul pentru un recrutor? Incarca-l in Yago Resume Lab. Iti arata ce lipseste fata de rolul tinta. Contul gratuit e suficient pentru prima verificare. [Deschide Yago](https://www.yagocareers.io/ro)
+Vrei sa vezi cum arata CV-ul pentru un recrutor? Scaneaza-l in Yago. Corectezi si rescanezi pana e impecabil. [Scaneaza CV-ul in Yago](https://www.yagocareers.io/ro)
 
 Data viitoare: LinkedIn-ul, ca sa te gaseasca recrutorii pe tine.
 
@@ -106,8 +109,6 @@ Recrutorii cauta pe LinkedIn dupa cuvinte cheie si locatie. Daca profilul tau nu
 Bonus: sectiunea "Despre" incepe cu aceleasi 3 fraze din CV. CV-ul si LinkedIn-ul spun aceeasi poveste. Recrutorii verifica asta.
 
 Sarcina de azi: schimba titlul si locatia. 15 minute.
-
-Dupa ce schimbi, verifica profilul cu evaluatorul LinkedIn din Yago. Iti spune ce sectiuni sunt slabe si ce cuvinte cheie lipsesc. [Verifica profilul in Yago](https://www.yagocareers.io/ro)
 
 Data viitoare: mesajul pe care il trimiti recrutorului dupa ce aplici. Asta face cea mai mare diferenta.
 
@@ -182,7 +183,7 @@ Ultimul email din seria asta.
 Daca vrei rezultatul fara sa faci totul singur, avem Job Remote in 90 de zile:
 - iti scriem integral CV-ul si LinkedIn-ul, optimizate ATS
 - faci Challenge-ul de 5 zile
-- folosesti Yago 90 de zile: CV Lab, evaluator LinkedIn, interviu cu AI
+- folosesti Yago Pro 90 de zile: scanare CV nelimitata, CV Builder, joburi remote noi zilnic
 - primesti cele 2 cursuri de AI pentru cariera
 - ai 2 sesiuni video cu noi: start si simulare de interviu
 - ne scrii pe WhatsApp 90 de zile, de luni pana vineri, intre 11:00 si 17:00, ora Romaniei
@@ -197,7 +198,7 @@ Garantia: daca aplici dupa plan si nu primesti niciun interviu in 90 de zile, lu
 Nu esti sigur? Rezerva o sesiune de strategie de 45 de minute. Cei 97 € se scad din program daca il alegi in 7 zile.
 [Rezerv sesiunea](https://www.flaviapopescu.eu/offers/dnWSMKFM/checkout)
 
-Preferi sa lucrezi singur, in ritmul tau? Yago Pro iti da Resume Lab, evaluatorul LinkedIn si Interview Prep nelimitat, pentru [PRET YAGO PRO] pe luna. Opresti oricand. [Vezi Yago Pro](https://www.yagocareers.io/ro)
+Preferi sa lucrezi singur, in ritmul tau? Yago Pro costa 19 € pe luna: scanare CV nelimitata, CV Builder si joburi remote noi in fiecare zi. Opresti oricand. [Vezi Yago Pro](https://www.yagocareers.io/ro)
 
 Oricum alegi, lectiile din emailurile trecute raman ale tale. Aplica-le.
 
@@ -262,7 +263,7 @@ Al doilea pas: ia un anunt care iti place si subliniaza cuvintele cheie. Verific
 
 Template-ul din kit trece deja testul. Il gasesti pe [pagina cu resursele](https://www.flaviapopescu.eu/kit-job-remote-resurse).
 
-Vrei sa compari CV-ul cu un anunt anume, nu doar cu "ochiul liber"? In Yago Resume Lab pui CV-ul si anuntul si vezi ce cuvinte cheie lipsesc. Contul gratuit ajunge pentru inceput. [Deschide Yago](https://www.yagocareers.io/ro)
+Dupa ce repari, scaneaza CV-ul in Yago. Corectezi si rescanezi pana trece. Daca pornesti de la zero, CV Builder iti da un CV curat, gata de trimis, in cateva minute. [Deschide Yago](https://www.yagocareers.io/ro)
 
 Flavia si Catalin
 
@@ -333,7 +334,7 @@ Daca raspunsurile nu vin inca, de obicei e una din doua situatii:
 2. Nu stii ce sa schimbi. In sesiunea de strategie ne uitam la CV si la LinkedIn inainte de apel. In 45 de minute pleci cu 3 pasi clari. Sesiunile au loc de luni pana vineri, intre 11:00 si 17:00, ora Romaniei. 97 €, care se scad din orice pachet de peste 350 €, in 7 zile.
 [Rezerv sesiunea](https://www.flaviapopescu.eu/offers/dnWSMKFM/checkout)
 
-3. Vrei sa lucrezi singur, dar cu unelte. Yago Pro: Resume Lab, evaluator LinkedIn si Interview Prep nelimitat, [PRET YAGO PRO] pe luna. Opresti oricand.
+3. Vrei sa lucrezi singur, dar cu unelte. Yago Pro, 19 € pe luna: scanare CV nelimitata, CV Builder si joburi remote noi in fiecare zi. Opresti oricand.
 [Vezi Yago Pro](https://www.yagocareers.io/ro)
 
 Ai o intrebare? Raspunde la acest email.
@@ -369,7 +370,7 @@ Tabelul tau are 6 coloane: companie, rol, data aplicarii, mesaj trimis, follow-u
 
 Dupa 2 saptamani te uiti la tabel. Daca ai sub 2 raspunsuri din 20, problema e la CV sau la roluri. Daca ai raspunsuri dar nu treci de primul interviu, problema e la interviu.
 
-Inainte sa aplici, verifica jobul: e remote pentru Romania sau doar pentru SUA? Cere un fus orar anume? Verificarea jobului din Yago iti raspunde in cateva secunde, ca sa nu pierzi timp pe anunturi care nu te accepta. [Verifica un job in Yago](https://www.yagocareers.io/ro)
+Lunea, cand cauti joburi, nu deschide 10 site-uri. In Yago, la Joburi Remote, anunturile noi apar zilnic, intr-un singur loc. [Vezi joburile remote in Yago](https://www.yagocareers.io/ro)
 
 Data viitoare: ce spui cand te intreaba de salariu.
 
@@ -435,7 +436,7 @@ Challenge-ul ti-a aratat ce sa repari. Daca vrei sa reparam impreuna, cu garanti
 
 Ce primesti:
 - CV-ul si LinkedIn-ul scrise integral de noi, optimizate ATS
-- Yago 90 de zile: CV Lab, evaluator LinkedIn, interviu cu AI
+- Yago Pro 90 de zile: scanare CV nelimitata, CV Builder, joburi remote noi zilnic
 - cele 2 cursuri de AI pentru cariera
 - 2 sesiuni video cu noi: start si simulare de interviu
 - feedback pe WhatsApp 90 de zile, de luni pana vineri, intre 11:00 si 17:00, ora Romaniei
@@ -449,7 +450,7 @@ Garantia: daca aplici dupa plan si nu primesti niciun interviu in 90 de zile, lu
 
 Flavia si Catalin
 
-P.S. Accesul la Yago Pro din Challenge s-a terminat? Il poti pastra pentru [PRET YAGO PRO] pe luna. [Pastrez Yago Pro](https://www.yagocareers.io/ro)
+P.S. Accesul la Yago din Challenge s-a terminat? Yago Pro costa 19 € pe luna. [Pastrez Yago Pro](https://www.yagocareers.io/ro)
 
 ---
 
@@ -523,10 +524,10 @@ Flavia si Catalin
 
 ---
 
-## E. Yago: dupa cele 5 zile Pro din Challenge
+## E. Yago: dupa cele 5 zile din Challenge
 
-Declansator: cumpara Challenge-ul (97 € sau 197 €). Pornesc in ziua 5, cand se termina accesul gratuit la Yago Pro.
-Scop: 3 lectii in care Yago face munca, apoi abonamentul Yago Pro.
+Declansator: cumpara Challenge-ul (97 € sau 197 €). Pornesc in ziua 5, cand se termina accesul gratuit la Yago.
+Scop: 3 lectii in care Yago face munca, apoi Yago Pro (19 €) sau Comunitatea AI (27 €).
 Iesire: activeaza Yago Pro sau cumpara programul de 90 de zile.
 
 ### E1. Ziua 5 · Predare: cum exersezi interviul fara raspunsuri invatate pe de rost
@@ -546,11 +547,13 @@ Ce functioneaza: 5 povesti din experienta ta, spuse cu metoda STAR.
 
 Cele 5 povesti acopera aproape orice intrebare: un conflict, o greseala, un rezultat de care esti mandru, o schimbare grea, un client dificil.
 
-Cum exersezi: spui povestea cu voce tare, primesti feedback, o spui din nou mai scurt. In Yago Interview Prep primesti intrebarea, raspunzi si vezi ce a lipsit din raspuns.
+Cum exersezi: spui povestea cu voce tare, primesti feedback, o spui din nou mai scurt.
+
+Primul tau interviu real nu ar trebui sa fie si primul antrenament. In sesiunile Live de interviu cu AI din Yago vorbesti in timp real cu un intervievator AI care pune presiune ca unul adevarat. La final vezi ce ai spus bine, unde ai pierdut puncte si ce spui data viitoare.
 
 Sarcina de azi: scrie cele 5 titluri de povesti. Doar titlurile.
 
-[Exerseaza in Yago Interview Prep](https://www.yagocareers.io/ro)
+[Vezi sesiunile Live in Yago](https://www.yagocareers.io/ro)
 
 Flavia si Catalin
 
@@ -570,11 +573,11 @@ Multe anunturi scriu "remote", dar accepta doar oameni din anumite tari. Pierzi 
 
 Daca un anunt pica la unul dintre ele, treci mai departe.
 
-Verificarea jobului din Yago face asta pentru tine: lipesti anuntul si vezi daca e potrivit pentru Romania si pentru profilul tau.
+Ca sa ai mai multe anunturi de verificat in mai putin timp, foloseste Joburi Remote din Yago. Nu mai deschizi 10 site-uri: anunturile noi apar acolo, zilnic.
 
-Sarcina de azi: verifica 5 joburi din tabel. Sterge-le pe cele care nu te accepta.
+Sarcina de azi: verifica 5 joburi din tabel dupa cele 3 semne. Sterge-le pe cele care nu te accepta.
 
-[Verifica un job in Yago](https://www.yagocareers.io/ro)
+[Vezi joburile remote in Yago](https://www.yagocareers.io/ro)
 
 Flavia si Catalin
 
@@ -596,32 +599,40 @@ Ce lasi la fel: structura, educatia, restul experientei.
 
 Cu o versiune de baza buna, adaptarea dureaza 10 minute.
 
-In Yago Resume Lab pastrezi versiunea de baza si faci cate o varianta pentru fiecare anunt. Vezi cuvintele cheie lipsa si scorul inainte sa trimiti.
+In Yago, fiecare varianta trece prin scanare inainte sa o trimiti. Corectezi si rescanezi pana e impecabila. Cu Pro, scanarea e nelimitata, deci poti verifica fiecare aplicatie.
 
-Sarcina de azi: adapteaza CV-ul pentru urmatoarea aplicatie, in maxim 10 minute.
+Sarcina de azi: adapteaza CV-ul pentru urmatoarea aplicatie, in maxim 10 minute, apoi scaneaza-l.
 
-[Deschide Resume Lab](https://www.yagocareers.io/ro)
+[Scaneaza CV-ul in Yago](https://www.yagocareers.io/ro)
 
 Flavia si Catalin
 
 ### E4. Ziua 11 · Vanzare: Yago Pro, lunar
 
 Subiect: Pastreaza Yago Pro cat timp cauti job
-Preview: Resume Lab, evaluator LinkedIn si Interview Prep nelimitat. Opresti oricand.
+Preview: Scanare CV nelimitata, CV Builder si joburi remote noi zilnic. 19 € pe luna.
 
 Salut {{ first_name | default: "" }},
 
-In ultimele zile ai folosit Yago pentru 3 lucruri: ai exersat interviul, ai verificat joburi si ai adaptat CV-ul.
+In ultimele zile ti-am aratat 3 lucruri: cum exersezi interviul, cum verifici un job si cum adaptezi CV-ul in 10 minute.
 
-In timpul Challenge-ului ai avut Yago Pro gratuit. Contul gratuit ramane al tau. Daca vrei sa pastrezi totul nelimitat cat timp aplici, ai Yago Pro:
-- Resume Lab, cu o varianta de CV pentru fiecare anunt
-- evaluatorul LinkedIn
-- Interview Prep nelimitat, cu feedback
-- verificarea joburilor
+In timpul Challenge-ului ai avut acces gratuit la Yago. Daca vrei sa continui cat timp aplici, ai doua variante:
 
-[PRET YAGO PRO] pe luna. Opresti cand ai jobul.
+Yago Pro, 19 € pe luna, pentru cautarea activa:
+- scanare CV nelimitata: corectezi si rescanezi pana e impecabil
+- CV Builder: CV curat, gata de trimis, in cateva minute
+- Joburi Remote: anunturile noi apar zilnic, intr-un singur loc
 
-[Activez Yago Pro](https://www.yagocareers.io/ro)
+[Aleg Yago Pro](https://www.yagocareers.io/ro)
+
+Comunitatea AI, 27 € pe luna, daca te pregatesti de interviuri:
+- tot din Pro, inclus
+- 2 sesiuni Live de interviu cu AI pe luna
+- traininguri live si oameni care trec prin aceeasi cautare
+
+[Intru in Comunitatea AI](https://www.yagocareers.io/ro)
+
+Opresti oricand, cand ai jobul.
 
 Vrei sa facem noi partea grea? Programul Job Remote in 90 de zile include Yago 90 de zile, plus CV-ul si LinkedIn-ul scrise de noi.
 [Vezi programul](https://www.flaviapopescu.eu/offers/FkuewFSZ/checkout)
@@ -639,17 +650,17 @@ Iesire: activeaza Yago Pro.
 ### F1. Ziua 80 · Vanzare: pastreaza Yago dupa program
 
 Subiect: Accesul tau la Yago se termina in 10 zile
-Preview: Ce se intampla cu CV-urile si exercitiile tale dupa ziua 90.
+Preview: Ce se opreste dupa ziua 90 si cum pastrezi accesul, de la 19 € pe luna.
 
 Salut {{ first_name | default: "" }},
 
 Ai inca 10 zile din cele 90 de Yago incluse in program.
 
-Contul tau gratuit ramane. CV-urile si istoricul raman acolo. Dupa ziua 90 se opresc functiile Pro: variantele nelimitate de CV, evaluatorul LinkedIn si Interview Prep nelimitat.
+Dupa ziua 90 se opresc functiile Pro: scanarea CV nelimitata, CV Builder si Joburi Remote.
 
-Daca esti inca in interviuri sau negociezi o oferta, pastreaza Yago Pro pentru [PRET YAGO PRO] pe luna. Opresti oricand.
+Daca esti inca in cautare, pastreaza Yago Pro pentru 19 € pe luna. Daca ai interviuri in curand, Comunitatea AI costa 27 € pe luna si include 2 sesiuni Live de interviu cu AI. Opresti oricand.
 
-[Pastrez Yago Pro](https://www.yagocareers.io/ro)
+[Pastrez Yago](https://www.yagocareers.io/ro)
 
 Ai deja jobul? Scrie-ne pe WhatsApp, vrem sa aflam! Raspundem de luni pana vineri, intre 11:00 si 17:00, ora Romaniei.
 
