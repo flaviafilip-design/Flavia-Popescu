@@ -3,7 +3,7 @@
 Regula: intai invatam, apoi recomandam, abia la final vindem.
 Fiecare email de predare are o singura lectie si o sarcina de 10 minute.
 
-Program de raspuns pe WhatsApp: luni pana vineri, 11:00 la 17:00. Sesiuni si apeluri: luni pana vineri, 10:00 la 17:00, ora Romaniei.
+Program: WhatsApp, sesiuni si apeluri, luni pana vineri, 11:00 la 17:00, ora Romaniei.
 Ora de trimitere: 10:00, ora Romaniei.
 
 Linkuri folosite:
@@ -331,7 +331,7 @@ Daca raspunsurile nu vin inca, alege varianta care ti se potriveste:
 1. Nu stii daca CV-ul e destul de bun. In Challenge-ul de 5 zile il rescrii pas cu pas si il scanezi in Yago pana e impecabil. Exersezi si interviul, cu metoda STAR. 97 €, sau 197 € cu 30 de zile de feedback de la noi pe WhatsApp.
 [Incep Challenge-ul](https://www.flaviapopescu.eu/offers/PySKts39/checkout)
 
-2. Nu stii ce sa schimbi. In sesiunea de strategie ne uitam la CV si la LinkedIn inainte de apel. In 45 de minute pleci cu 3 pasi clari. Sesiunile au loc de luni pana vineri, intre 10:00 si 17:00, ora Romaniei. 97 €, care se scad din orice pachet de peste 350 €, in 7 zile.
+2. Nu stii ce sa schimbi. In sesiunea de strategie ne uitam la CV si la LinkedIn inainte de apel. In 45 de minute pleci cu 3 pasi clari. Sesiunile au loc de luni pana vineri, intre 11:00 si 17:00, ora Romaniei. 97 €, care se scad din orice pachet de peste 350 €, in 7 zile.
 [Rezerv sesiunea](https://www.flaviapopescu.eu/offers/dnWSMKFM/checkout)
 
 3. Vrei sa lucrezi singur, dar cu unelte. Yago Pro, 19 € pe luna: scanare CV nelimitata, CV Builder si joburi remote noi in fiecare zi. Opresti oricand.
@@ -472,7 +472,7 @@ Multumim! Ca sa folosim toate cele 45 de minute pe solutii, ai 3 pasi:
 1. Completeaza formularul: jobul actual, rolul tinta, CV-ul si linkul de LinkedIn.
 [Completeaza formularul](https://tally.so/r/A7NgkW)
 
-2. Alege ora din calendar, in contul tau de pe flaviapopescu.eu. Sesiunile au loc de luni pana vineri, intre 10:00 si 17:00, ora Romaniei.
+2. Alege ora din calendar, in contul tau de pe flaviapopescu.eu. Sesiunile au loc de luni pana vineri, intre 11:00 si 17:00, ora Romaniei.
 [Intra in cont](https://www.flaviapopescu.eu/login)
 
 3. Gandeste-te la raspunsul la intrebarea asta: "Daca peste 90 de zile am un job remote, ce s-a schimbat?" Salariul, programul, tipul de munca. Ne ajuta sa alegem directia.
