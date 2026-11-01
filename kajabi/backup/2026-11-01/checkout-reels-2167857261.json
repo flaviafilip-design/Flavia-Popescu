@@ -1,0 +1,579 @@
+{
+  "content_for_index": [
+    "",
+    "1744906803654"
+  ],
+  "favicon": "",
+  "color_primary": "#A10728",
+  "font_family_body": "Poppins",
+  "font_weight_body": "400",
+  "line_height_body": "1.6",
+  "font_family_heading": "Playfair Display",
+  "font_weight_heading": "400",
+  "line_height_heading": "1.2",
+  "color_body": "#3B1216",
+  "color_heading": "#A10728",
+  "font_size_h1_desktop": "48px",
+  "font_size_h2_desktop": "42px",
+  "font_size_h3_desktop": "36px",
+  "font_size_h4_desktop": "32px",
+  "font_size_h5_desktop": "28px",
+  "font_size_h6_desktop": "24px",
+  "font_size_body_desktop": "21px",
+  "font_size_h1_mobile": "48px",
+  "font_size_h2_mobile": "36px",
+  "font_size_h3_mobile": "28px",
+  "font_size_h4_mobile": "24px",
+  "font_size_h5_mobile": "20px",
+  "font_size_h6_mobile": "18px",
+  "font_size_body_mobile": "14px",
+  "error_message_text_color": "#ffffff",
+  "error_message_background_color": "#ff0000",
+  "show_guides": true,
+  "show_grid": false,
+  "css": "/* CSS Overrides go here */",
+  "js": "/* Javascript code goes here */",
+  "btn_background_color": "#A10728",
+  "btn_text_color": "#F6E6E5",
+  "btn_width": "auto",
+  "btn_style": "solid",
+  "btn_size": "small",
+  "btn_border_radius": "30",
+  "color_body_secondary": "#7A5258",
+  "color_placeholder": "#cccccc",
+  "background_color": "#F6F0EA",
+  "use_background_image": false,
+  "background_image": "",
+  "brand": {
+    "primary_color": "#1abc9c",
+    "accent_color": "#2ecc71",
+    "logo": null,
+    "favicon": null,
+    "font_family_heading": "Fira Sans",
+    "font_family_body": "Open Sans",
+    "social": {
+      "facebook": null,
+      "instagram": null,
+      "x": null,
+      "youtube": null,
+      "linkedin": null,
+      "tiktok": null
+    }
+  },
+  "sections": {
+    "1744906803654": {
+      "name": "Checkout",
+      "type": "offer_embedded_checkout",
+      "blocks": {
+        "1746107473790": {
+          "id": "1746107473790",
+          "name": "Text",
+          "type": "text",
+          "hidden": "false",
+          "hideable": true,
+          "settings": {
+            "text": "<h2>Motorul de Reels</h2>\n<h4>Tu filmezi cu telefonul. Motorul îți editează reelul, în stilul tău.</h4>\n<p>Ce primești:</p>\n<ul>\n<li><strong>Motorul</strong>: taie pauzele și reluările, pune subtitrări, titlu, carduri, imagini, efecte și sunete. Merge în Claude sau în ChatGPT, în aplicația de calculator, pe Mac sau Windows.</li>\n<li><strong>Cursul</strong>: lecții în română, cele mai multe video, separat pentru Claude și pentru ChatGPT, de la instalare la primul reel postat.</li>\n<li><strong>Actualizările</strong> sunt incluse în preț, fără abonament. Ajung singure la tine.</li>\n</ul>\n<p><strong>127 € o singură dată.</strong> Motorul lucrează cu abonamentul tău Claude sau ChatGPT, de la 20 € pe lună, plătit separat.</p>\n<p><em>„Mă așteptam ca prețul să fie undeva pe la 200-250 de euro. Eu croșetam în timp ce el edita.”</em><br>Cursantă Motorul de Reels</p>\n<p>Vrei factură pe firmă? Completează mai jos numele firmei, CUI-ul și adresa.</p>\n<p>Întrebări? Scrie-mi la remotecoaches@gmail.com.</p>",
+            "delay": "0",
+            "width": "8",
+            "new_tab": "",
+            "use_btn": false,
+            "btn_size": "",
+            "btn_text": "Call To Action",
+            "drop_cap": false,
+            "duration": "0",
+            "btn_style": "",
+            "btn_width": "",
+            "cap_color": "",
+            "box_shadow": "",
+            "btn_action": "",
+            "make_block": false,
+            "make_flush": false,
+            "text_align": "left",
+            "border_type": "",
+            "border_color": "",
+            "border_width": "4",
+            "reveal_event": "",
+            "reveal_units": "seconds",
+            "border_radius": "4",
+            "margin_mobile": {
+              "top": "0",
+              "left": "0",
+              "right": "0",
+              "bottom": "0"
+            },
+            "reveal_offset": "",
+            "animation_type": "none",
+            "btn_text_color": "",
+            "cta_popup_edit": "",
+            "cta_popup_text": "Enter your text here.",
+            "hide_on_mobile": false,
+            "margin_desktop": {
+              "top": "0",
+              "left": "0",
+              "right": "0",
+              "bottom": "0"
+            },
+            "padding_mobile": {
+              "top": "0",
+              "left": "0",
+              "right": "0",
+              "bottom": "0"
+            },
+            "hide_on_desktop": false,
+            "padding_desktop": {
+              "top": "0",
+              "left": "0",
+              "right": "0",
+              "bottom": "0"
+            },
+            "background_color": "",
+            "btn_border_radius": "",
+            "mobile_text_align": "left",
+            "animation_direction": "none",
+            "btn_background_color": "",
+            "cta_popup_text_align": "left",
+            "cta_popup_text_color": "",
+            "cta_popup_background_color": ""
+          },
+          "deletable": true,
+          "sectionId": "1744906803654",
+          "schemaName": "Text",
+          "sectionType": "offer_embedded_checkout",
+          "duplicatable": true
+        }
+      },
+      "hidden": "false",
+      "hideable": false,
+      "settings": {
+        "bg_type": "none",
+        "bg_position": "center",
+        "background_fixed": false,
+        "checkout_block_btn_color": "#343332",
+        "checkout_block_box_shadow": "small",
+        "checkout_block_border_type": "none",
+        "checkout_block_border_color": "#343332",
+        "checkout_block_border_width": "0",
+        "checkout_block_column_width": "5",
+        "inject_footer_tracking_code": true,
+        "inject_header_tracking_code": true,
+        "checkout_block_border_radius": "0",
+        "sync_checkout_block_to_offer": true,
+        "checkout_block_standalone_width": "8",
+        "checkout_block_btn_border_radius": "50",
+        "show_checkout_block_first_on_mobile": true,
+        "show_checkout_block_right_on_desktop": true,
+        "show_checkout_block_btn_text_override": false,
+        "show_checkout_block_price_text_override": false
+      },
+      "block_order": [
+        "1746107473790"
+      ]
+    },
+    "footer": {
+      "name": "Footer",
+      "type": "footer",
+      "blocks": {
+        "1555988519593": {
+          "type": "logo",
+          "settings": {
+            "logo": "static_assets/themes/encore-site/emilia/logo_footer.png",
+            "image_alt": "flavia popescu",
+            "logo_text": "flavia popescu",
+            "logo_type": "text",
+            "logo_width": "100",
+            "logo_text_color": "#F6E6E5"
+          }
+        },
+        "1555988525205": {
+          "type": "copyright",
+          "settings": {
+            "copyright": "Flavia Popescu"
+          }
+        }
+      },
+      "hidden": "false",
+      "hideable": true,
+      "settings": {
+        "text_color": "#F6E6E5",
+        "hide_on_mobile": true,
+        "hide_on_desktop": true,
+        "vertical_layout": "false",
+        "background_color": "#720808",
+        "font_size_mobile": "16px",
+        "font_size_desktop": "18px",
+        "copyright_text_color": "#F6E6E5",
+        "powered_by_text_color": "#F6E6E5"
+      },
+      "block_order": [
+        "1555988519593",
+        "1555988525205"
+      ]
+    },
+    "header": {
+      "name": "Header",
+      "type": "header",
+      "blocks": {
+        "1555988487706": {
+          "id": "1555988487706",
+          "name": "User Menu",
+          "type": "user",
+          "hidden": "false",
+          "hideable": true,
+          "settings": {
+            "stretch": "false",
+            "alignment": "left",
+            "text_color": "#A10728",
+            "language_login": "Intră în cont",
+            "language_logout": "Ieși din cont",
+            "background_color": "#F6F0EA",
+            "language_library": "Biblioteca mea",
+            "language_settings": "Setări",
+            "user_dropdown_menu_alignment": "left"
+          },
+          "deletable": true,
+          "sectionId": "header",
+          "schemaName": "User Menu",
+          "sectionType": "header",
+          "duplicatable": true
+        },
+        "1555988494486": {
+          "id": "1555988494486",
+          "name": "Logo",
+          "type": "logo",
+          "hidden": "false",
+          "hideable": true,
+          "settings": {
+            "logo": "static_assets/themes/encore-site/emilia/logo_header.png",
+            "stretch": "true",
+            "alignment": "left",
+            "image_alt": "flavia popescu",
+            "logo_text": "flavia popescu",
+            "logo_type": "text",
+            "logo_width": "100",
+            "logo_text_color": "#A10728"
+          },
+          "deletable": true,
+          "sectionId": "header",
+          "schemaName": "Logo",
+          "sectionType": "header",
+          "duplicatable": true
+        },
+        "1603432944592": {
+          "type": "social_icons",
+          "settings": {
+            "new_tab": "true",
+            "stretch": "false",
+            "horizontal": "flex-start",
+            "social_icon_size": "",
+            "mobile_horizontal": "flex-start",
+            "social_icon_link_yelp": "",
+            "social_icon_link_slack": "",
+            "social_icon_link_vimeo": "",
+            "social_icon_link_flickr": "",
+            "social_icon_link_github": "",
+            "social_icon_link_itunes": "",
+            "social_icon_link_tumblr": "",
+            "social_icons_text_color": "#A10728",
+            "social_icon_link_twitter": "",
+            "social_icon_link_youtube": "",
+            "social_icon_link_dribbble": "",
+            "social_icon_link_facebook": "",
+            "social_icon_link_linkedin": "",
+            "social_icon_link_instagram": "https://www.instagram.com/flavia.popescu_",
+            "social_icon_link_pinterest": "",
+            "social_icon_link_soundcloud": "",
+            "social_icon_background_style": "round",
+            "social_icon_link_google_plus": "",
+            "social_icons_background_color": "#FEC6D3"
+          }
+        },
+        "1603433284462": {
+          "type": "menu",
+          "settings": {
+            "menu": "main-menu",
+            "new_tab": "false",
+            "stretch": "false",
+            "alignment": "right"
+          }
+        }
+      },
+      "hidden": "false",
+      "hideable": true,
+      "settings": {
+        "cart": false,
+        "sticky": false,
+        "position": "static",
+        "horizontal": "center",
+        "text_color": "#A10728",
+        "hide_on_mobile": true,
+        "close_on_scroll": true,
+        "hamburger_color": "#A10728",
+        "hide_on_desktop": true,
+        "background_color": "#F6F0EA",
+        "font_size_mobile": "16px",
+        "font_size_desktop": "15px",
+        "sticky_text_color": "#A10728",
+        "sticky_hamburger_color": "#A10728",
+        "sticky_background_color": "#F6F0EA",
+        "mobile_menu_text_alignment": "left"
+      },
+      "block_order": [
+        "1555988494486",
+        "1603433284462",
+        "1555988487706",
+        "1603432944592"
+      ]
+    },
+    "exit_pop": {
+      "name": "Exit Popup",
+      "type": "exit_pop",
+      "blocks": {
+        "1585757552293": {
+          "type": "image",
+          "settings": {
+            "image": "",
+            "width": "12",
+            "new_tab": "false",
+            "image_alt": "",
+            "box_shadow": "none",
+            "img_action": "",
+            "make_block": "false",
+            "make_flush": "false",
+            "border_type": "none",
+            "image_first": "false",
+            "image_width": "",
+            "border_color": "",
+            "border_width": "4",
+            "overlay_text": "Click Here for More Details",
+            "border_radius": "4",
+            "margin_mobile": {
+              "top": "",
+              "left": "",
+              "right": "",
+              "bottom": ""
+            },
+            "enable_overlay": "false",
+            "hide_on_mobile": "false",
+            "margin_desktop": {
+              "top": "",
+              "left": "",
+              "right": "",
+              "bottom": ""
+            },
+            "padding_mobile": {
+              "top": "",
+              "left": "",
+              "right": "",
+              "bottom": ""
+            },
+            "hide_on_desktop": "false",
+            "padding_desktop": {
+              "top": "",
+              "left": "",
+              "right": "",
+              "bottom": ""
+            },
+            "background_color": "",
+            "image_align_mobile": "flex-start",
+            "overlay_text_color": "",
+            "image_align_desktop": "flex-start",
+            "always_show_on_mobile": "false",
+            "overlay_background_color": "#fff"
+          }
+        },
+        "1585757555485": {
+          "type": "form",
+          "settings": {
+            "form": "",
+            "text": "<h4>Join Our Free Trial</h4>\r\n<p>Get started today before this once in a lifetime opportunity expires.</p>",
+            "width": "12",
+            "inline": "false",
+            "btn_text": "Submit",
+            "thank_you": "",
+            "box_shadow": "none",
+            "make_block": "false",
+            "make_flush": "false",
+            "text_align": "center",
+            "border_type": "none",
+            "input_label": "placeholder",
+            "border_color": "",
+            "border_width": "4",
+            "border_radius": "4",
+            "margin_mobile": {
+              "top": "",
+              "left": "",
+              "right": "",
+              "bottom": ""
+            },
+            "btn_text_color": "",
+            "hide_on_mobile": "false",
+            "margin_desktop": {
+              "top": "",
+              "left": "",
+              "right": "",
+              "bottom": ""
+            },
+            "padding_mobile": {
+              "top": "",
+              "left": "",
+              "right": "",
+              "bottom": ""
+            },
+            "disclaimer_text": "",
+            "hide_on_desktop": "false",
+            "padding_desktop": {
+              "top": "",
+              "left": "",
+              "right": "",
+              "bottom": ""
+            },
+            "background_color": "",
+            "btn_border_radius": "",
+            "mobile_text_align": "center",
+            "btn_background_color": "",
+            "disclaimer_text_color": "#888"
+          }
+        }
+      },
+      "hidden": "false",
+      "settings": {
+        "vertical": "start",
+        "frequency": "0",
+        "horizontal": "left",
+        "make_flush": "false",
+        "modal_edit": "false",
+        "enable_modal": "false",
+        "popup_reveal": "0",
+        "background_color": ""
+      },
+      "block_order": [
+        "1585757552293",
+        "1585757555485"
+      ]
+    },
+    "two_step": {
+      "name": "Two Step Optin",
+      "type": "two_step",
+      "blocks": {
+        "1585757540189": {
+          "type": "image",
+          "settings": {
+            "image": "",
+            "width": "12",
+            "new_tab": "false",
+            "image_alt": "",
+            "box_shadow": "none",
+            "img_action": "",
+            "make_block": "false",
+            "make_flush": "false",
+            "border_type": "none",
+            "image_first": "false",
+            "image_width": "",
+            "border_color": "",
+            "border_width": "4",
+            "overlay_text": "Click Here for More Details",
+            "border_radius": "4",
+            "margin_mobile": {
+              "top": "",
+              "left": "",
+              "right": "",
+              "bottom": ""
+            },
+            "enable_overlay": "false",
+            "hide_on_mobile": "false",
+            "margin_desktop": {
+              "top": "",
+              "left": "",
+              "right": "",
+              "bottom": ""
+            },
+            "padding_mobile": {
+              "top": "",
+              "left": "",
+              "right": "",
+              "bottom": ""
+            },
+            "hide_on_desktop": "false",
+            "padding_desktop": {
+              "top": "",
+              "left": "",
+              "right": "",
+              "bottom": ""
+            },
+            "background_color": "",
+            "image_align_mobile": "flex-start",
+            "overlay_text_color": "",
+            "image_align_desktop": "flex-start",
+            "always_show_on_mobile": "false",
+            "overlay_background_color": "#fff"
+          }
+        },
+        "1585757543890": {
+          "type": "form",
+          "settings": {
+            "form": "",
+            "text": "<h4>Join Our Free Trial</h4>\r\n<p>Get started today before this once in a lifetime opportunity expires.</p>",
+            "width": "12",
+            "inline": "false",
+            "btn_text": "Submit",
+            "thank_you": "",
+            "box_shadow": "none",
+            "make_block": "false",
+            "make_flush": "false",
+            "text_align": "center",
+            "border_type": "none",
+            "input_label": "placeholder",
+            "border_color": "",
+            "border_width": "4",
+            "border_radius": "4",
+            "margin_mobile": {
+              "top": "",
+              "left": "",
+              "right": "",
+              "bottom": ""
+            },
+            "btn_text_color": "",
+            "hide_on_mobile": "false",
+            "margin_desktop": {
+              "top": "",
+              "left": "",
+              "right": "",
+              "bottom": ""
+            },
+            "padding_mobile": {
+              "top": "",
+              "left": "",
+              "right": "",
+              "bottom": ""
+            },
+            "disclaimer_text": "",
+            "hide_on_desktop": "false",
+            "padding_desktop": {
+              "top": "",
+              "left": "",
+              "right": "",
+              "bottom": ""
+            },
+            "background_color": "",
+            "btn_border_radius": "",
+            "mobile_text_align": "center",
+            "btn_background_color": "",
+            "disclaimer_text_color": "#888"
+          }
+        }
+      },
+      "hidden": "false",
+      "settings": {
+        "vertical": "start",
+        "horizontal": "left",
+        "make_flush": "false",
+        "two_step_edit": "false",
+        "background_color": ""
+      },
+      "block_order": [
+        "1585757540189",
+        "1585757543890"
+      ]
+    }
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "color_primary": "#A10728",
+  "color_heading": "#A10728",
+  "color_body": "#3B1216",
+  "color_body_secondary": "#5A6670",
+  "background_color": "#F6F0EA",
+  "font_family_heading": "Bodoni Moda",
+  "font_family_body": "DM Sans",
+  "custom_css": "@import url('https://fonts.googleapis.com/css2?family=Allura&family=Bodoni+Moda:ital,opsz,wght@0,6..96,400;0,6..96,600;1,6..96,400;1,6..96,500&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&family=Poppins:wght@300;400&display=swap');.fp{--cream:#F6F0EA;--blush:#F6E6E5;--pink:#FEC6D3;--sky:#BAD4ED;--ice:#DAE9F7;--crimson:#A10728;--oxblood:#720808;--ink:#3B1216;--ink-soft:#7A5258;--white:#FFFDFB;--display:\"Bodoni Moda\",\"Didot\",\"Times New Roman\",serif;--body:\"DM Sans\",\"Helvetica Neue\",Arial,sans-serif;--label:\"Poppins\",\"Helvetica Neue\",Arial,sans-serif;--script:\"Allura\",\"Snell Roundhand\",cursive;--gutter:clamp(16px,4vw,64px);color-scheme:light;}.fp,.fp *{box-sizing:border-box}.fp{margin:0;background:var(--cream);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.65;-webkit-font-smoothing:antialiased;overflow-x:clip}.fp img{max-width:100%;display:block}.fp a{color:inherit}.fp h1,.fp h2,.fp h3{font-family:var(--display)!important;font-weight:400!important;margin:0;color:var(--crimson);text-wrap:balance;letter-spacing:-.01em;text-transform:none!important}.fp em{font-style:italic}.fp p{margin:0}.fp :focus-visible{outline:2px solid var(--crimson);outline-offset:3px}.fp .label{font-family:var(--label);font-weight:400;font-size:.74rem;letter-spacing:.32em;text-transform:uppercase;color:var(--crimson)}.fp .script{font-family:var(--script);color:var(--crimson);font-size:2.6rem;line-height:1}.fp .btn{display:inline-flex;align-items:center;gap:.6em;font-family:var(--label);font-size:.76rem;letter-spacing:.24em;text-transform:uppercase;background:var(--crimson);color:var(--blush);border:1px solid var(--crimson);border-radius:999px;padding:1.05rem 2.1rem;text-decoration:none;transition:background .25s,color .25s,transform .25s}.fp .btn:hover{background:var(--oxblood);border-color:var(--oxblood);transform:translateY(-2px)}.fp .btn.ghost{background:transparent;color:var(--crimson)}.fp .btn.ghost:hover{background:var(--crimson);color:var(--blush)}.fp .wrap{padding-inline:var(--gutter)}.fp .inner{max-width:1220px;margin-inline:auto}.fp .arch{overflow:hidden;border-radius:999px 999px 18px 18px}.fp .arch img{width:100%;height:100%;object-fit:cover}.fp .mono{width:86px;height:86px;border-radius:28px;display:grid;place-items:center;position:relative;font-family:var(--display);font-style:italic;color:var(--crimson);background:var(--pink)}.fp .mono b{font-weight:400;font-size:3.1rem;line-height:1;position:absolute;left:18px;top:8px}.fp .mono i{font-size:3.1rem;line-height:1;position:absolute;right:16px;bottom:6px}.fp .mono small{position:absolute;top:40px;left:0;right:0;text-align:center;font-family:var(--label);font-style:normal;font-size:.42rem;letter-spacing:.2em}.fp .ann{background:var(--crimson);color:var(--blush);overflow:hidden}.fp .ann-track{display:flex;width:max-content;font-family:var(--label);font-size:.72rem;letter-spacing:.24em;text-transform:uppercase;padding-block:.65rem}.fp .ann-track span{padding-inline:2.2rem;white-space:nowrap}.fp .ann-track span::after{content:\"✦\";margin-left:4.4rem;opacity:.7}.fp .logo{display:flex;align-items:baseline;gap:.08em;text-decoration:none;color:var(--crimson);font-family:var(--display);font-size:2rem;line-height:1;white-space:nowrap;position:relative}.fp .logo span{font-weight:400}.fp .logo b{font-weight:600}.fp .logo::after{content:\"✦\";font-size:.5em;position:relative;top:-.9em;margin-left:.05em}.fp .hero-copy{display:grid;gap:1.6rem;justify-items:start}.fp .hero-copy .script{font-size:3.2rem;margin-bottom:-1.2rem;rotate:-4deg;transform-origin:left}.fp .hero-copy .lede{font-size:1.14rem;max-width:32rem}.fp .hero-copy h1{font-size:clamp(3.2rem,7vw,6.2rem)!important;line-height:.98!important}.fp .hero-copy h1 em{color:var(--oxblood)}.fp .cta-row{display:flex;flex-wrap:wrap;gap:.8rem}.fp .page-hero{padding-block:clamp(48px,7vw,96px) clamp(48px,6vw,80px);background-color:var(--cream);background-image:linear-gradient(90deg,rgba(186,212,237,.35) 50%,transparent 50%),linear-gradient(rgba(186,212,237,.35) 50%,transparent 50%);background-size:28px 28px}.fp .page-hero .inner{display:grid;grid-template-columns:1fr;justify-items:center;text-align:center}.fp .page-hero .hero-copy{justify-items:center;background:var(--cream);border-radius:40px;padding:clamp(28px,5vw,64px) clamp(24px,6vw,90px)}.fp .page-hero .hero-copy .script{transform-origin:center}.fp .sec{padding-block:clamp(72px,9vw,120px)}.fp .cards3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;max-width:1140px;margin-inline:auto}.fp .card{border-radius:36px;padding:clamp(30px,4vw,56px);text-align:center;display:grid;gap:1.1rem;align-content:start;justify-items:center;transition:transform .3s ease}.fp .card:hover{transform:translateY(-5px)}.fp .card.main{background:var(--pink)}.fp .card.white{background:var(--white)}.fp .card h3{font-size:clamp(1.9rem,2.8vw,2.7rem)!important;line-height:1.08!important}.fp .card p{max-width:28rem}.fp .feature{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:clamp(32px,5vw,72px);align-items:center;max-width:1140px;margin-inline:auto;background:var(--pink);border-radius:40px;padding:clamp(28px,4vw,56px)}.fp .feature .arch{aspect-ratio:3/4;border:8px solid var(--white)}.fp .feature .txt{display:grid;gap:1.1rem;justify-items:start}.fp .feature h2{font-size:clamp(2.6rem,4.6vw,4.2rem)!important;line-height:1.04!important}.fp .marq{background:var(--crimson);color:var(--blush);overflow:hidden}.fp .marq-track{display:flex;width:max-content;font-family:var(--display);font-style:italic;font-size:clamp(1.6rem,3vw,2.4rem);padding-block:1.2rem}.fp .marq-track span{padding-inline:2.4rem;white-space:nowrap}.fp .marq-track span::after{content:\"✦\";font-style:normal;font-size:.6em;margin-left:4.8rem;vertical-align:middle}.fp .foot{background:var(--oxblood);color:var(--blush)}.fp .foot .inner{display:grid;grid-template-columns:minmax(0,1.3fr) repeat(3,minmax(0,1fr));gap:20px;align-items:center;padding-block:56px}.fp .foot .sig{display:grid;justify-items:center;gap:.8rem;text-align:center}.fp .foot .logo{color:var(--pink)}.fp .foot .sig p{font-family:var(--display);font-style:italic;font-size:1.1rem}.fp .foot .handle{font-family:var(--label);font-size:.68rem;letter-spacing:.24em;text-transform:uppercase;opacity:.85}.fp .foot .arch{aspect-ratio:3/4}@media (max-width:900px){.fp .cards3{grid-template-columns:1fr}.fp .feature{grid-template-columns:1fr}.fp .feature .arch{max-width:340px;margin-inline:auto}}@media (max-width:700px){.fp .foot .inner{grid-template-columns:repeat(3,minmax(0,1fr))}.fp .foot .sig{grid-column:1/-1}}@media (prefers-reduced-motion:no-preference){@keyframes fp-rise{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:none}}@keyframes fp-slide{to{transform:translateX(-50%)}}.fp .hero-copy>*{animation:fp-rise .9s cubic-bezier(.2,.7,.2,1) both}.fp .hero-copy>*:nth-child(2){animation-delay:.1s}.fp .hero-copy>*:nth-child(3){animation-delay:.2s}.fp .ann-track{animation:fp-slide 40s linear infinite}.fp .marq-track{animation:fp-slide 32s linear infinite}@supports (animation-timeline:view()){@keyframes fp-lift{from{transform:translateY(40px)}to{transform:none}}.fp .reveal{animation:fp-lift linear both;animation-timeline:view();animation-range:entry 0% cover 30%}}}html{scroll-behavior:smooth}body{background:#F6F0EA}[data-nova-role=logo-text]{font-family:'Bodoni Moda',serif!important;color:#A10728!important;font-size:1.9rem!important;letter-spacing:-.01em}[data-nova-role=menu] a{font-family:'Poppins',sans-serif!important;font-weight:400;font-size:.72rem!important;letter-spacing:.28em;text-transform:uppercase;color:#A10728!important}[data-nova-role=cta]{font-family:'Poppins',sans-serif!important;font-size:.66rem!important;letter-spacing:.24em;text-transform:uppercase}",
+  "custom_js": "",
+  "content_for_index": [
+    "fl-page"
+  ],
+  "sections": {
+    "fl-page": {
+      "type": "section",
+      "name": "Biblioteca",
+      "settings": {
+        "full_width": true,
+        "background_color": "#F6F0EA",
+        "padding_desktop": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "padding_mobile": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "block_order": [
+        "b",
+        "x",
+        "p"
+      ],
+      "blocks": {
+        "b": {
+          "type": "code",
+          "name": "Biblioteca",
+          "settings": {
+            "code": "<div class=\"fp\"><div class=\"ann\" aria-label=\"Anunț\"><div class=\"ann-track\"><span>Lista de așteptare e deschisă</span><span>Cei de pe listă află primii când se deschide Motorul de Reels</span><span>Lista de așteptare e deschisă</span><span>Cei de pe listă află primii când se deschide Motorul de Reels</span><span>Lista de așteptare e deschisă</span><span>Cei de pe listă află primii când se deschide Motorul de Reels</span><span>Lista de așteptare e deschisă</span><span>Cei de pe listă află primii când se deschide Motorul de Reels</span></div></div><section class=\"page-hero wrap\"><div class=\"inner\"><div class=\"hero-copy\"><p class=\"script\">Biblioteca</p><h1>Resurse <em>gratuite.</em></h1><p class=\"lede\">Ghiduri despre AI și joburi remote, în română. Ia ce îți trebuie și începe azi.</p></div></div></section><section class=\"sec wrap\" style=\"background:var(--blush);padding-top:clamp(56px,7vw,90px)\"><div class=\"inner\"><div class=\"cards3\"><article class=\"card white reveal\"><p class=\"label\">Joburi remote · Ghid gratuit</p><h3>10 website-uri pentru <em>joburi remote</em></h3><p>Site-urile care chiar funcționează.</p><a class=\"btn\" href=\"https://www.flaviapopescu.eu/offers/An2DS9Yd/checkout\">Deschide</a></article><article class=\"card white reveal\"><p class=\"label\">AI · Gratuit</p><h3>5 certificări AI <em>gratuite</em></h3><p>Certificări pe care le poți trece în CV și pe LinkedIn.</p><a class=\"btn\" href=\"https://www.flaviapopescu.eu/offers/g5nUZqoY/checkout\">Deschide</a></article><article class=\"card main reveal\"><p class=\"label\">Reels · Lista de așteptare</p><h3>Motorul de <em>Reels</em></h3><p>Cursul în care AI-ul îți editează reel-urile. Cei de pe listă află primii când se deschide.</p><a class=\"btn\" href=\"https://remotecoaches.kit.com/000648c0b4\" target=\"_blank\" rel=\"noopener\">Intră pe listă</a></article></div></div></section><section class=\"sec wrap\"><div class=\"feature reveal\" style=\"background:var(--sky)\"><div class=\"arch\"><img src=\"https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/sites/2148933892/images/5e0b705-dbe-ee8-7bc2-5dea7b7ab_10.jpg\" alt=\"Flavia sub un măslin, lângă mare\"></div><div class=\"txt\"><p class=\"label\">Mai departe</p><h2>Vrei un <em>plan</em>, nu doar resurse?</h2><p>Vezi cursurile, ghidurile și serviciile, toate într-un singur loc.</p><div class=\"cta-row\"><a class=\"btn\" href=\"/produse\">Vezi produsele</a><a class=\"btn ghost\" href=\"https://www.instagram.com/flavia.popescu_\" target=\"_blank\" rel=\"noopener\">Instagram</a></div></div></div></section><div class=\"marq\" aria-hidden=\"true\"><div class=\"marq-track\"><span>Tu filmezi. Editează AI-ul.</span><span>Tu filmezi. Editează AI-ul.</span><span>Tu filmezi. Editează AI-ul.</span><span>Tu filmezi. Editează AI-ul.</span><span>Tu filmezi. Editează AI-ul.</span><span>Tu filmezi. Editează AI-ul.</span><span>Tu filmezi. Editează AI-ul.</span><span>Tu filmezi. Editează AI-ul.</span></div></div><div class=\"foot wrap\"><div class=\"inner\"><div class=\"sig\"><div class=\"mono\" aria-hidden=\"true\"><b>F</b><small>reels</small><i>P</i></div><a class=\"logo\" href=\"/\"><span>flavia</span><b>popescu</b></a><p>AI, joburi remote și reel-uri editate cu AI.</p><span class=\"handle\">@flavia.popescu_</span></div><div class=\"arch\"><img src=\"https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/sites/2148933892/images/42178b-1fb0-123a-42c-8bdc225287d6_7.jpg\" alt=\"Flavia în Positano\"></div><div class=\"arch\"><img src=\"https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/sites/2148933892/images/774132-c1-25fe-7af8-542c86431155_9.jpg\" alt=\"Flavia pe o terasă cu vedere la munți\"></div><div class=\"arch\"><img src=\"https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/sites/2148933892/images/c425fe-4d4d-0cbe-a5b3-05d36fe4f6b6_apus-spritz.jpg\" alt=\"Flavia la apus, cu un spritz\"></div></div></div></div>",
+            "width": "fill",
+            "mobile_width": "fill",
+            "custom_classes": "w-full! flex-none! basis-full",
+            "padding_desktop": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "padding_mobile": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        "p": {
+          "type": "code",
+          "settings": {
+            "width": "fill",
+            "mobile_width": "fill",
+            "custom_classes": "w-full! flex-none! basis-full",
+            "padding_desktop": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "padding_mobile": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "code": "<style>@import url('https://fonts.googleapis.com/css2?family=Anton&family=Playfair+Display:ital,wght@0,500;0,600;1,500;1,600&display=swap');\n/* Readable type (Mariah-like): Anton display + Playfair Display italic accents; replaces thin Bodoni and Allura script */\n.fc,.fp{--display:\"Anton\",\"Arial Narrow\",Impact,sans-serif;--script:\"Playfair Display\",Georgia,serif;--serif:\"Playfair Display\",Georgia,serif}\n.fc h1,.fc h2,.fc h3,.fp h1,.fp h2,.fp h3{font-family:\"Anton\",\"Arial Narrow\",Impact,sans-serif!important;font-weight:400!important;text-transform:uppercase!important;letter-spacing:.01em!important;line-height:1.06!important}\n.fc h1 em,.fc h2 em,.fc h3 em,.fp h1 em,.fp h2 em,.fp h3 em,.fc-nav a em,.fc-foot-big em{font-family:var(--serif)!important;font-style:italic!important;font-weight:500!important;text-transform:none!important;letter-spacing:-.01em!important}\n.fc-hero-title h1{line-height:.9!important;letter-spacing:.02em!important}\n.fc .script,.fp .script{font-family:var(--serif)!important;font-style:italic;font-weight:500;letter-spacing:-.01em}\n.fc-hero-title .script{font-size:clamp(2.2rem,4vw,4rem)!important;translate:-18% 6%}\n.fc-nav .script{font-size:2rem!important}\n.fc .script.sign,.fp .script.sign,.fc-pain-end .script,.fp .pain-end .script,.fc-story .script{font-size:1.9rem}\n.fc .price,.fp .price-tag,.fp .price b,.fc-stats b,.fp .stats b,.fc-move .n,.fc-pain-card .n,.fc-toc .n,.fp .pain-card .n,.fp .toc .n,.fp .card .num{font-family:\"Anton\",\"Arial Narrow\",Impact,sans-serif!important;font-style:normal!important;font-weight:400!important;font-variation-settings:normal!important;letter-spacing:.01em!important}\n.fc-logo,.fp .logo{font-family:\"Anton\",\"Arial Narrow\",Impact,sans-serif!important;text-transform:uppercase;letter-spacing:.03em;font-size:1.55rem!important;gap:.3em!important}\n.fc-logo b,.fp .logo b,.fc-logo span,.fp .logo span{font-weight:400!important}\n.fc-foot-big{font-family:\"Anton\",\"Arial Narrow\",Impact,sans-serif!important;text-transform:uppercase;letter-spacing:.01em;line-height:.92}\n.fc-nav a{font-family:\"Anton\",\"Arial Narrow\",Impact,sans-serif!important;text-transform:uppercase}\n.fc-marq-track,.fp .marq-track{font-family:\"Anton\",\"Arial Narrow\",Impact,sans-serif!important;font-style:normal!important;text-transform:uppercase;letter-spacing:.02em}\n.fc-hero-copy .tagline,.fc-toc .t,.fp .toc .t,.fc-fact i,.fp .fact i,.fc summary,.fp summary,.fc-file b,.fp .file b,.fc-changes span:last-child,.fp .changes span:last-child,.fc-pain-end .big,.fp .pain-end .big,.fc-foot .sig p,.fp .foot .sig p,.fc-toc-head h3,.fp .toc-head h3{font-family:var(--serif)!important;font-weight:500}\n.fc-toc-head h3,.fp .toc-head h3{text-transform:none!important}\n.fc .label,.fp .label{font-weight:500}\nbody [data-nova-role=logo-text]{font-family:\"Anton\",\"Arial Narrow\",Impact,sans-serif!important;text-transform:uppercase;letter-spacing:.03em;font-size:1.55rem!important}</style>"
+          }
+        },
+        "x": {
+          "name": "Remote patch",
+          "settings": {
+            "code": "<script>\n(function(){\n var fp=document.querySelector('.fp'); if(!fp) return;\n var ann=fp.querySelector('.ann-track');\n if(ann){var h='';for(var i=0;i<4;i++){h+='<span>Job remote international, din Romania</span><span>CV, LinkedIn si interviu pentru joburi remote, in romana</span>';}ann.innerHTML=h;}\n fp.querySelectorAll('.marq-track span').forEach(function(s){s.textContent='Job remote. Salariu international.';});\n fp.querySelectorAll('a[href*=\"kit.com/000648c0b4\"]').forEach(function(a){\n  var c=a.closest('article');\n  if(c&&c.parentNode&&c.parentNode.classList.contains('cards3')){c.innerHTML='<p class=\"label\">Primul pas platit · 27 €</p><h3>Kitul <em>Job Remote</em></h3><p>100 de companii remote-first, template de CV ATS, checklist LinkedIn, 10 mesaje catre recrutori si planul de 7 zile.</p><a class=\"btn\" href=\"https://www.flaviapopescu.eu/offers/3DKRXN3L/checkout\">Vreau kitul</a>';}\n  else if(c){c.innerHTML='<p class=\"label\">Faci ghidat · 5 zile</p><h3>Challenge-ul de <em>5 zile</em></h3><p>CV, LinkedIn, scrisoare de intentie, interviu si unde aplici. 13 video-uri scurte, ghiduri si Yago Pro gratuit pe durata celor 5 zile. Incepi imediat dupa plata.</p><p class=\"price-tag\">97 €</p><a class=\"btn\" href=\"https://www.flaviapopescu.eu/offers/PySKts39/checkout\">Incep Challenge-ul</a>';}\n });\n var oh=fp.querySelector('.offer-head h2'); if(oh&&/lista/i.test(oh.textContent)) oh.innerHTML='Alege <em>pasul urmator</em>';\n fp.querySelectorAll('a').forEach(function(a){if(/Vezi Motorul de Reels/.test(a.textContent)){a.textContent='Vezi pachetele';a.setAttribute('href','/produse');}});\n})();\n\n</script>",
+            "custom_classes": "w-full! flex-none! basis-full",
+            "mobile_width": "fill",
+            "padding_desktop": {
+              "bottom": 0,
+              "left": 0,
+              "right": 0,
+              "top": 0
+            },
+            "padding_mobile": {
+              "bottom": 0,
+              "left": 0,
+              "right": 0,
+              "top": 0
+            },
+            "width": "fill"
+          },
+          "type": "code"
+        }
+      }
+    },
+    "footer": {
+      "name": "Footer",
+      "type": "footer",
+      "blocks": {
+        "footer-copyright": {
+          "name": "Copyright",
+          "type": "copyright",
+          "settings": {
+            "copyright": "Popescu Flavia-Maria PFA · CUI RO55487826"
+          }
+        },
+        "footer-links": {
+          "name": "Links",
+          "type": "link_list",
+          "settings": {
+            "menu": "footer",
+            "vertical": "row",
+            "new_tab": false
+          }
+        }
+      },
+      "hidden": false,
+      "settings": {
+        "text_color": "#F6E6E5",
+        "custom_classes": "",
+        "background_color": "#720808",
+        "copyright_text_color": "",
+        "hide_on_desktop": false,
+        "hide_on_mobile": false,
+        "font_size_desktop": "13px",
+        "font_size_mobile": "12px"
+      },
+      "block_order": [
+        "footer-links",
+        "footer-copyright"
+      ]
+    },
+    "header": {
+      "name": "Header",
+      "type": "header",
+      "blocks": {
+        "header-cta": {
+          "name": "Header CTA",
+          "type": "cta",
+          "settings": {
+            "btn_text": "Vezi pachetele",
+            "btn_action": "https://www.flaviapopescu.eu/produse",
+            "new_tab": false,
+            "btn_background_color": "#A10728",
+            "btn_text_color": "#F6E6E5",
+            "btn_border_radius": 999
+          }
+        },
+        "header-logo": {
+          "name": "Logo",
+          "type": "logo",
+          "settings": {
+            "logo_text": "flavia popescu",
+            "logo_type": "text"
+          }
+        },
+        "header-menu": {
+          "name": "Menu",
+          "type": "menu",
+          "settings": {}
+        }
+      },
+      "hidden": false,
+      "settings": {
+        "sticky": true,
+        "text_color": "#A10728",
+        "custom_classes": "",
+        "background_color": "#F6F0EA"
+      },
+      "block_order": [
+        "header-logo",
+        "header-menu",
+        "header-cta"
+      ]
+    },
+    "modals": {
+      "name": "Modals",
+      "type": "modals",
+      "blocks": {
+        "modal-two-step": {
+          "name": "Two Step Optin",
+          "type": "modal",
+          "blocks": {
+            "two-step-form": {
+              "name": "Form",
+              "type": "form",
+              "settings": {
+                "link_to_form_embed": true
+              }
+            },
+            "two-step-image": {
+              "name": "Image",
+              "type": "image",
+              "settings": {}
+            }
+          },
+          "settings": {
+            "max_width": "520",
+            "trigger_type": "manual",
+            "border_radius": "12",
+            "frequency_days": "0"
+          },
+          "block_order": [
+            "two-step-image",
+            "two-step-form"
+          ]
+        },
+        "modal-exit-intent": {
+          "name": "Exit Popup",
+          "type": "modal",
+          "blocks": {
+            "exit-form": {
+              "name": "Form",
+              "type": "form",
+              "settings": {
+                "link_to_form_embed": true
+              }
+            },
+            "exit-image": {
+              "name": "Image",
+              "type": "image",
+              "settings": {}
+            }
+          },
+          "settings": {
+            "max_width": "520",
+            "trigger_type": "exit_intent",
+            "border_radius": "12",
+            "frequency_days": "7",
+            "auto_trigger_enabled": false
+          },
+          "block_order": [
+            "exit-image",
+            "exit-form"
+          ]
+        }
+      },
+      "hidden": false,
+      "settings": {},
+      "block_order": [
+        "modal-two-step",
+        "modal-exit-intent"
+      ]
+    },
+    "floating_agent": {
+      "name": "Agents",
+      "type": "floating_agent",
+      "hidden": false,
+      "settings": {
+        "enable_floating_button": false
+      }
+    }
+  }
+}

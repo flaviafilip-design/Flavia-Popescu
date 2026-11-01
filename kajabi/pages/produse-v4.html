@@ -1,0 +1,321 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=DM+Sans:wght@400;500;700&family=Playfair+Display:ital,wght@0,500;1,500&family=Poppins:wght@400;500&display=swap');
+.h4{--cream:#F6F0EA;--blush:#F6E6E5;--pink:#FEC6D3;--sky:#BAD4ED;--ice:#DAE9F7;--crimson:#A10728;--oxblood:#720808;--ink:#3B1216;--soft:#6E474D;--white:#FFFDFB;--line:rgba(59,18,22,.14);
+ --disp:'Anton','Arial Narrow',Impact,sans-serif;--ser:'Playfair Display',Georgia,serif;--lab:'Poppins','DM Sans',Arial,sans-serif;
+ font-family:'DM Sans','Helvetica Neue',Arial,sans-serif;color:var(--ink);background:var(--cream);font-size:17px;line-height:1.6;overflow-x:clip;width:100%}
+.h4 *{box-sizing:border-box}
+.h4 a{color:inherit}
+.h4 p{margin:0}
+.h4 img{display:block;max-width:100%}
+.h4 .w{max-width:1140px;margin:0 auto;padding:0 16px}
+.h4 section{padding:72px 0;scroll-margin-top:90px}
+.h4 h1,.h4 h2,.h4 h3{font-family:var(--disp)!important;font-weight:400!important;text-transform:uppercase;letter-spacing:.01em;line-height:1.05!important;margin:0;color:var(--crimson)}
+.h4 h1 em,.h4 h2 em,.h4 h3 em{font-family:var(--ser)!important;font-style:italic;font-weight:500;text-transform:none;letter-spacing:-.01em}
+.h4 h2{font-size:clamp(2rem,4.4vw,3.2rem)}
+.h4 h3{font-size:1.6rem}
+.h4 .k{font-family:var(--lab);font-size:.72rem;font-weight:500;letter-spacing:.24em;text-transform:uppercase;color:var(--crimson)}
+.h4 .head{max-width:740px;margin:0 auto 36px;text-align:center;display:grid;gap:14px}
+.h4 .head p{color:var(--soft)}
+.h4 .btn{display:inline-block;background:var(--crimson);color:var(--blush)!important;text-decoration:none;font-family:var(--lab);font-size:.76rem;letter-spacing:.18em;text-transform:uppercase;padding:17px 26px;border-radius:999px;text-align:center;border:1.5px solid var(--crimson);transition:transform .15s,background .2s}
+.h4 .btn:hover{transform:translateY(-2px);background:var(--oxblood)}
+.h4 .btn.alt{background:transparent;color:var(--crimson)!important}
+.h4 .btn.alt:hover{background:var(--crimson);color:var(--blush)!important}
+/* top bar */
+.h4 .top{position:sticky;top:0;z-index:60;background:var(--cream);border-bottom:1px solid var(--line)}
+.h4 .ann{background:var(--crimson);color:var(--blush);text-align:center;font-family:var(--lab);font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;padding:8px 16px}
+.h4 .bar{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:12px 16px;max-width:1140px;margin:0 auto}
+.h4 .logo{font-family:var(--disp);text-transform:uppercase;letter-spacing:.03em;font-size:1.5rem;color:var(--crimson);text-decoration:none;white-space:nowrap}
+.h4 .nav{display:flex;gap:22px;align-items:center;font-family:var(--lab);font-size:.72rem;letter-spacing:.14em;text-transform:uppercase}
+.h4 .nav a{text-decoration:none;color:var(--crimson)}
+.h4 .nav a:hover{text-decoration:underline}
+.h4 .nav .btn{padding:11px 18px;font-size:.66rem}
+.h4 .menu{display:none}
+/* hero */
+.h4 .hero{padding:56px 0 64px}
+.h4 .hero .w{display:grid;grid-template-columns:1.2fr .8fr;gap:56px;align-items:center}
+.h4 .hero-t{display:grid;gap:22px;justify-items:start}
+.h4 .hero h1{font-size:clamp(2.3rem,4.6vw,3.9rem)}
+.h4 .hero h1 em{color:var(--oxblood)}
+.h4 .lede{font-size:1.12rem;color:var(--soft);max-width:560px}
+.h4 .row{display:flex;flex-wrap:wrap;gap:12px}
+.h4 .small{font-size:.92rem;color:var(--soft)}
+.h4 .art{position:relative;max-width:400px;width:100%;justify-self:center}
+.h4 .art .panel{position:absolute;inset:40px -24px -24px 24px;border-radius:32px;background-color:var(--white);background-image:linear-gradient(90deg,rgba(186,212,237,.55) 50%,transparent 50%),linear-gradient(rgba(186,212,237,.55) 50%,transparent 50%);background-size:26px 26px}
+.h4 .art .arch{position:relative;border-radius:999px 999px 20px 20px;overflow:hidden;border:9px solid var(--white);box-shadow:0 26px 54px rgba(114,8,8,.18);aspect-ratio:3/4}
+.h4 .art .arch img{width:100%;height:100%;object-fit:cover}
+.h4 .art .hi{position:absolute;left:-18px;bottom:26px;background:var(--white);border-radius:18px;padding:12px 16px;box-shadow:0 12px 26px rgba(114,8,8,.14);font-family:var(--ser);font-style:italic;font-size:1.25rem;color:var(--crimson);line-height:1.2}
+.h4 .art .hi small{display:block;font-family:'DM Sans',Arial,sans-serif;font-style:normal;font-size:.8rem;color:var(--soft)}
+.h4 .mono{position:absolute;right:-14px;top:22px;width:72px;height:72px;border-radius:22px;background:var(--pink);color:var(--crimson);font-family:var(--ser);font-style:italic;box-shadow:0 10px 22px rgba(114,8,8,.16);rotate:-8deg}
+.h4 .mono b{position:absolute;left:14px;top:6px;font-weight:500;font-size:2.5rem;line-height:1}
+.h4 .mono i{position:absolute;right:12px;bottom:4px;font-size:2.5rem;line-height:1}
+/* band */
+.h4 .band{background:var(--sky);padding:22px 0}
+.h4 .band .w{display:flex;flex-wrap:wrap;justify-content:center;gap:10px 36px;font-family:var(--lab);font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;color:var(--oxblood);text-align:center}
+.h4 .band b{font-family:var(--disp);font-weight:400;font-size:1.3rem;letter-spacing:.02em;color:var(--crimson);margin-right:6px}
+/* why */
+.h4 .why{background:var(--white)}
+.h4 .g3{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.h4 .pc{background:var(--blush);border-radius:22px;padding:24px;display:grid;gap:8px;align-content:start}
+.h4 .pc .n{font-family:var(--disp);font-size:2rem;color:var(--crimson);line-height:1}
+.h4 .pc b{font-size:1.08rem}
+.h4 .pc p{color:var(--soft);font-size:.98rem}
+/* chooser */
+.h4 .pick{display:grid;gap:10px;max-width:820px;margin:0 auto}
+.h4 .pick a{display:grid;grid-template-columns:1fr auto;gap:16px;align-items:center;background:var(--white);border:1px solid var(--line);border-radius:18px;padding:16px 20px;text-decoration:none}
+.h4 .pick a:hover{border-color:var(--crimson)}
+.h4 .pick span{color:var(--ink)}
+.h4 .pick b{white-space:nowrap;color:var(--crimson);font-family:var(--lab);font-size:.8rem;letter-spacing:.06em}
+.h4 .pick .note{text-align:center;color:var(--soft);font-size:.92rem;margin-top:6px}
+/* offers */
+.h4 .offers{background:var(--blush)}
+.h4 .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;align-items:stretch}
+.h4 .of{background:var(--white);border:1px solid var(--line);border-radius:28px;padding:28px 24px;display:flex;flex-direction:column;gap:16px;position:relative;scroll-margin-top:100px}
+.h4 .of .price{font-family:var(--disp);font-size:2.8rem;line-height:1;color:var(--crimson)}
+.h4 .of .price small{font-family:'DM Sans',Arial,sans-serif;font-size:.95rem;color:var(--soft);margin-left:6px}
+.h4 dl{margin:0;display:grid;gap:12px}
+.h4 dt{font-family:var(--lab);font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;color:var(--crimson)}
+.h4 dd{margin:2px 0 0;font-size:.97rem}
+.h4 dd ul{margin:4px 0 0;padding-left:18px;display:grid;gap:4px}
+.h4 .of .btn{margin-top:auto;width:100%}
+.h4 .plus{background:var(--blush);border-radius:18px;padding:16px;display:grid;gap:8px;font-size:.95rem}
+.h4 .plus b{color:var(--crimson)}
+.h4 .plus a{color:var(--crimson);font-weight:700}
+.h4 .fine{font-size:.88rem;color:var(--soft);text-align:center}
+.h4 .coach{margin:28px auto 0;max-width:900px;background:var(--ice);border-radius:26px;padding:24px;display:grid;grid-template-columns:1fr auto;gap:20px;align-items:center}
+.h4 .coach p{color:var(--soft);font-size:.97rem;margin-top:6px}
+.h4 .safe{margin-top:22px;text-align:center;color:var(--soft);font-size:.92rem}
+/* proof */
+.h4 .q{margin:0;background:var(--white);border-radius:22px 22px 22px 6px;padding:20px 22px;display:grid;gap:12px;align-content:space-between;box-shadow:0 6px 18px rgba(59,18,22,.06)}
+.h4 .q blockquote{margin:0;font-size:1.02rem;line-height:1.55}
+.h4 .q figcaption{font-family:var(--lab);font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:var(--crimson)}
+.h4 .muted{text-align:center;color:var(--soft);font-size:.88rem;margin-top:18px}
+/* about */
+.h4 .about{background:var(--white)}
+.h4 .about .w{display:grid;grid-template-columns:.8fr 1.2fr;gap:56px;align-items:center}
+.h4 .about .arch{border-radius:999px 999px 20px 20px;overflow:hidden;border:8px solid var(--cream);aspect-ratio:3/4;max-width:360px;justify-self:center;width:100%}
+.h4 .about .arch img{width:100%;height:100%;object-fit:cover}
+.h4 .about .t{display:grid;gap:16px}
+.h4 .about .t p{color:var(--soft)}
+/* yago */
+.h4 .yago .box{max-width:900px;margin:0 auto;background:var(--pink);border-radius:28px;padding:28px;display:grid;grid-template-columns:1.3fr .7fr;gap:24px;align-items:center}
+.h4 .yago .box .t{display:grid;gap:10px}
+.h4 .yago .r{display:grid;gap:10px;justify-items:center;text-align:center}
+.h4 .yago .r .p{font-family:var(--disp);font-size:2.4rem;line-height:1;color:var(--crimson)}
+/* faq */
+.h4 .faq{background:var(--blush)}
+.h4 .faq .list{max-width:780px;margin:0 auto;display:grid;gap:10px}
+.h4 details{background:var(--white);border-radius:18px;padding:16px 20px}
+.h4 summary{cursor:pointer;font-weight:700;list-style:none;display:flex;justify-content:space-between;gap:16px}
+.h4 summary::-webkit-details-marker{display:none}
+.h4 summary:after{content:'+';color:var(--crimson);font-size:1.3rem;line-height:1}
+.h4 details[open] summary:after{content:'-'}
+.h4 details p{margin-top:10px;color:var(--soft)}
+/* final + foot */
+.h4 .final{background:var(--crimson);text-align:center}
+.h4 .final h2{color:var(--blush)}
+.h4 .final h2 em{color:var(--pink)}
+.h4 .final .w{display:grid;gap:20px;justify-items:center}
+.h4 .final p{color:var(--blush);max-width:620px}
+.h4 .final .btn{background:var(--blush);color:var(--crimson)!important;border-color:var(--blush)}
+.h4 .foot{background:var(--oxblood);color:var(--blush);padding:48px 0 28px}
+.h4 .foot .w{display:grid;gap:24px}
+.h4 .foot .big{font-family:var(--disp);text-transform:uppercase;font-size:clamp(2.4rem,9vw,6rem);line-height:.9;color:var(--pink);text-align:center}
+.h4 .foot .big em{font-family:var(--ser);text-transform:none;color:var(--blush)}
+.h4 .foot nav{display:flex;flex-wrap:wrap;justify-content:center;gap:10px 22px;font-family:var(--lab);font-size:.74rem;letter-spacing:.16em;text-transform:uppercase}
+.h4 .foot nav a{text-decoration:none}
+.h4 .foot .c{text-align:center;font-size:.8rem;opacity:.8}
+.h4 .stick{display:none}
+@media (max-width:900px){
+ .h4 section{padding:52px 0}
+ .h4 .nav a:not(.btn){display:none}
+ .h4 .menu{display:block;position:relative}
+ .h4 .menu summary{font-family:var(--lab);font-size:.66rem;letter-spacing:.14em;text-transform:uppercase;color:var(--crimson);border:1px solid var(--crimson);border-radius:999px;padding:9px 14px;font-weight:500}
+ .h4 .menu summary:after{content:''}
+ .h4 .menu[open] div{position:absolute;right:0;top:44px;background:var(--white);border-radius:16px;box-shadow:0 14px 30px rgba(59,18,22,.16);padding:12px 18px;display:grid;gap:10px;min-width:210px}
+ .h4 .menu div a{text-decoration:none;color:var(--crimson);font-family:var(--lab);font-size:.74rem;letter-spacing:.12em;text-transform:uppercase}
+ .h4 .menu{background:none;padding:0}
+ .h4 .hero{padding:28px 0 44px}
+ .h4 .hero .w,.h4 .about .w,.h4 .yago .box,.h4 .coach{grid-template-columns:1fr}
+ .h4 .art{max-width:240px}
+ .h4 .art .panel{inset:30px -12px -12px 12px}
+ .h4 .art .hi{left:-6px;font-size:1.05rem}
+ .h4 .mono{right:-6px;width:60px;height:60px}
+ .h4 .mono b,.h4 .mono i{font-size:2.1rem}
+ .h4 .g3,.h4 .cards{grid-template-columns:1fr}
+ .h4 .cards{gap:24px}
+ .h4 .pick a{grid-template-columns:1fr;gap:4px}
+ .h4 .hero .row .btn{width:100%}
+ .h4 .stick{display:block;position:fixed;left:12px;right:12px;bottom:12px;z-index:70;transition:opacity .2s}
+ .h4 .stick .btn{width:100%;box-shadow:0 10px 30px rgba(59,18,22,.3)}
+ .h4 .stick.off{opacity:0;pointer-events:none}
+}
+.h4 .phero{padding:56px 0 40px} .h4 .phero .w{display:block} @media (max-width:900px){.h4 .alte .cards{grid-template-columns:1fr!important}} </style>
+<div class="h4" id="h4">
+ <div class="top">
+  <div class="ann">CV, LinkedIn si interviu pentru joburi remote, explicate in romana</div>
+  <div class="bar">
+   <a class="logo" href="/">Flavia Popescu</a>
+   <nav class="nav" aria-label="Meniu">
+    <a href="#oferte">Pachete</a>
+    <a href="#alege">Ce mi se potriveste</a>
+    <a href="/produse">Produse</a>
+    <a href="/motorul-de-reels">Motorul de Reels</a>
+    <a href="/despre">Despre</a>
+    <details class="menu"><summary>Meniu</summary><div><a href="#oferte">Pachete</a><a href="#alege">Ce mi se potriveste</a><a href="/produse">Produse</a><a href="/motorul-de-reels">Motorul de Reels</a><a href="/biblioteca">Resurse gratuite</a><a href="/despre">Despre</a></div></details>
+   </nav>
+  </div>
+ </div>
+
+
+ <section class="hero phero">
+  <div class="w"><div class="head" style="margin:0 auto"><p class="k">Produse</p><h1 style="font-size:clamp(2.3rem,5vw,3.6rem)">Produse si <em>preturi</em></h1><p>Pachetele pentru joburi remote, Motorul de Reels si resursele gratuite. La fiecare vezi pretul, ce primesti si cine face munca.</p><div class="row" style="justify-content:center"><a class="btn" href="#oferte">Vezi pachetele, de la 27 €</a><a class="btn alt" href="#alege">Ajuta-ma sa aleg</a></div></div></div>
+ </section>
+
+ <section class="choose" id="alege">
+  <div class="w">
+   <div class="head"><p class="k">Ajuta-ma sa aleg</p><h2>Ce mi se <em>potriveste?</em></h2><p>Alege propozitia care te descrie cel mai bine.</p></div>
+   <div class="pick">
+    <a href="#kit"><span>Vreau materiale si un plan. Pot lucra singur.</span><b>Kitul · 27 €</b></a>
+    <a href="#challenge"><span>Vreau explicatii video si un proces pas cu pas.</span><b>Challenge-ul · 97 €</b></a>
+    <a href="#challenge-feedback"><span>Vreau sa lucrez eu, dar cu feedback personal de la voi.</span><b>Challenge + feedback · 197 €</b></a>
+    <a href="#cv"><span>Vreau sa scrieti voi CV-ul si profilul LinkedIn.</span><b>CV si LinkedIn · 375 €</b></a>
+    <a href="#coaching"><span>Nu stiu ce rol remote mi se potriveste.</span><b>Coaching · 97 €</b></a>
+    <p class="note">Nu e nevoie sa lasi emailul ca sa vezi recomandarea.</p>
+   </div>
+  </div>
+ </section>
+
+ <section class="offers" id="oferte">
+  <div class="w">
+   <div class="head"><p class="k">Pachete si preturi</p><h2>Ce poti <em>cumpara</em></h2><p>Trei pachete diferite. La primele doua lucrezi tu. La al treilea scriem noi.</p></div>
+   <div class="cards">
+    <article class="of" id="kit">
+     <p class="k">Lucrezi singur</p>
+     <h3>Kitul <em>Job Remote</em></h3>
+     <p class="price">27 €<small>o singura plata</small></p>
+     <dl>
+      <div><dt>Pentru cine</dt><dd>Pentru tine daca vrei sa incepi cu bani putini si ai timp sa lucrezi singur.</dd></div>
+      <div><dt>Cine face munca</dt><dd>Tu, cu materialele din kit.</dd></div>
+      <div><dt>Ce primesti</dt><dd><ul><li>Ghid PDF</li><li>Excel cu 100 de companii remote-first</li><li>Model de CV in engleza, cu instructiuni in romana, de descarcat in Word</li><li>Checklist LinkedIn in 15 pasi</li><li>10 mesaje catre recrutori</li><li>Plan de lucru de 7 zile</li></ul></dd></div>
+      <div><dt>Feedback personal</dt><dd>Nu. Kitul nu include verificarea CV-ului.</dd></div>
+      <div><dt>Dupa plata</dt><dd>Primesti pe email accesul la cont. Ghidul si Excelul sunt in Biblioteca mea, iar restul materialelor pe pagina de resurse.</dd></div>
+     </dl>
+     <a class="btn" href="https://www.flaviapopescu.eu/offers/3DKRXN3L/checkout">Cumpar Kitul, 27 €</a>
+    </article>
+    <article class="of" id="challenge">
+     <p class="k">Lucrezi tu, cu video</p>
+     <h3>Challenge-ul <em>de 5 zile</em></h3>
+     <p class="price">97 €<small>o singura plata</small></p>
+     <dl>
+      <div><dt>Pentru cine</dt><dd>Pentru tine daca vrei explicatii video si un proces clar, zi de zi.</dd></div>
+      <div><dt>Cine face munca</dt><dd>Tu. Curs video inregistrat.</dd></div>
+      <div><dt>Ce primesti</dt><dd><ul><li>5 zile: CV, LinkedIn, scrisoare de intentie, interviu, unde aplici</li><li>13 video-uri scurte, ghiduri si prompturi</li><li>Acces gratuit la Yago in cele 5 zile</li></ul></dd></div>
+      <div><dt>Feedback personal</dt><dd>Nu in varianta de 97 €. Vezi varianta cu feedback mai jos.</dd></div>
+      <div><dt>Dupa plata</dt><dd>Ziua 1 se deschide imediat. Fiecare zi noua se deschide la 24 de ore dupa cea dinainte si primesti un email. Lectiile raman in contul tau, le poti relua oricand.</dd></div>
+     </dl>
+     <div class="plus" id="challenge-feedback"><b>Varianta cu feedback: 197 € in total</b><span>Tot Challenge-ul, plus CV-ul si profilul LinkedIn revizuite personal de Flavia si Catalin si 30 de zile de feedback pe WhatsApp pentru CV, profil, scrisori si intrebarile tale. Raspundem luni pana vineri, 11:00 la 17:00.</span><a href="https://www.flaviapopescu.eu/offers/bLPbbn4U/checkout">Vreau varianta cu feedback, 197 €</a></div>
+     <a class="btn" href="https://www.flaviapopescu.eu/offers/PySKts39/checkout">Incep Challenge-ul, 97 €</a>
+    </article>
+    <article class="of" id="cv">
+     <p class="k">Scriem noi</p>
+     <h3>CV si LinkedIn <em>scrise de noi</em></h3>
+     <p class="price">375 €<small>o singura plata</small></p>
+     <dl>
+      <div><dt>Pentru cine</dt><dd>Pentru tine daca nu ai timp sau vrei ca documentele sa fie scrise de altcineva.</dd></div>
+      <div><dt>Cine face munca</dt><dd>Noi scriem CV-ul si profilul LinkedIn.</dd></div>
+      <div><dt>Ce primesti</dt><dd><ul><li>Apel initial de 15 minute</li><li>CV-ul scris integral, pe experienta ta si pe rolurile tinta</li><li>Profilul LinkedIn rescris</li><li>60 de zile de suport pe WhatsApp pentru intrebari despre CV, LinkedIn, aplicari si interviuri</li></ul></dd></div>
+      <div><dt>Feedback personal</dt><dd>Da. Lucram direct pe documentele tale.</dd></div>
+      <div><dt>Dupa plata</dt><dd>Completezi un formular, apoi alegi ora apelului din calendar, in contul tau. Termen de livrare: 7 zile lucratoare.</dd></div>
+     </dl>
+     <p class="fine">Sau 3 rate lunare de 130 €, adica 390 € in total.</p>
+     <a class="btn" href="https://www.flaviapopescu.eu/offers/SDkcqjMh/checkout">Vreau CV-ul scris de voi</a>
+    </article>
+   </div>
+   <div class="coach" id="coaching">
+    <div><p class="k">Nu stii ce rol ti se potriveste?</p><h3 style="margin-top:6px">Coaching de cariera <em>pentru joburi remote</em></h3><p>45 de minute pe video cu Flavia sau Catalin. Inainte de apel ne uitam pe CV si LinkedIn. Pleci cu rolurile potrivite pentru tine, un plan de 3 pasi si rezumatul pe email. Daca alegi CV-ul scris de noi in 7 zile de la apel, scadem cei 97 € din pret.</p></div>
+    <a class="btn" href="https://www.flaviapopescu.eu/offers/dnWSMKFM/checkout">Rezerv coaching, 97 €</a>
+   </div>
+   <p class="safe">Plata securizata cu cardul. Accesul vine pe email imediat dupa plata.</p>
+  </div>
+ </section>
+
+ <section class="proof">
+  <div class="w">
+   <div class="head"><p class="k">Mesaje reale</p><h2>Ce ne scriu <em>oamenii</em></h2></div>
+   <div class="g3">
+    <figure class="q"><blockquote>Am aplicat la 8 joburi saptamana trecuta si am primit interviuri la 5 dintre ele. De 7 luni tot caut si nimic.</blockquote><figcaption>Dupa Challenge</figcaption></figure>
+    <figure class="q"><blockquote>Dupa ce mi-ai facut CV-ul, am primit invitatie la 3 interviuri in nici 2 saptamani. Inainte aplicasem fara succes mai bine de un an.</blockquote><figcaption>Dupa CV si LinkedIn scrise de noi</figcaption></figure>
+    <figure class="q"><blockquote>In sfarsit m-am angajat remote. Multumesc Flavia si Catalin pentru tot sprijinul.</blockquote><figcaption>Mesaj pe WhatsApp</figcaption></figure>
+    <figure class="q"><blockquote>Dupa doua saptamani de aplicat cu noul CV si cu strategia din curs, am deja trei interviuri. Inainte aplicam de luni de zile si nu primeam aproape niciun raspuns.</blockquote><figcaption>Mesaj pe Instagram</figcaption></figure>
+    <figure class="q"><blockquote>Mi-am analizat CV-ul, am inteles unde pierd puncte si mi-am refacut descrierile mult mai clar. Am gasit si roluri la care nu m-as fi gandit niciodata ca sunt potrivita.</blockquote><figcaption>Mesaj pe Instagram</figcaption></figure>
+    <figure class="q"><blockquote>Aplic de 2 saptamani cu noul CV si am 3 interviuri. Eu, care nu am avut unul timp de un an.</blockquote><figcaption>Dupa CV si LinkedIn scrise de noi</figcaption></figure>
+   </div>
+   <p class="muted">Mesaje primite pe WhatsApp si Instagram. Unele sunt scurtate, numele sunt ascunse. Rezultatele difera de la o persoana la alta.</p>
+  </div>
+ </section>
+
+ <section class="alte" id="alte" style="background:var(--white)">
+  <div class="w">
+   <div class="head"><p class="k">Alte produse</p><h2>Pentru creatori <em>si gratuit</em></h2><p>Nu fac parte din pachetele pentru joburi remote.</p></div>
+   <div class="cards" style="grid-template-columns:repeat(2,1fr);max-width:820px;margin:0 auto">
+    <article class="of" id="motorul">
+     <p class="k">Pentru creatori</p>
+     <h3>Motorul <em>de Reels</em></h3>
+     <p class="price">127 €<small>o singura plata</small></p>
+     <dl>
+      <div><dt>Ce cumperi</dt><dd>Un sistem de editare cu AI pe care il instalezi pe calculator, plus un curs video in romana.</dd></div>
+      <div><dt>Ce iti trebuie</dt><dd><ul><li>Calculator cu Mac (macOS 14 sau mai nou) sau Windows 10/11, minim 8 GB memorie</li><li>Un abonament platit Claude sau ChatGPT, de la 20 € pe luna, platit separat</li><li>Un telefon cu care filmezi</li></ul></dd></div>
+      <div><dt>Cum merge</dt><dd>Filmezi pe telefon, muti clipul pe calculator si editarea se face acolo.</dd></div>
+     </dl>
+     <a class="btn" href="/motorul-de-reels">Vezi ce face</a>
+    </article>
+    <article class="of" id="gratuit">
+     <p class="k">Gratuit</p>
+     <h3>Ghiduri <em>gratuite</em></h3>
+     <p class="price">0 €</p>
+     <dl>
+      <div><dt>Ce primesti</dt><dd><ul><li>10 website-uri pentru joburi remote</li><li>5 certificari AI gratuite, pe care le poti trece in CV si pe LinkedIn</li></ul></dd></div>
+      <div><dt>Cum le primesti</dt><dd>Le descarci gratuit, dupa ce iti lasi emailul.</dd></div>
+     </dl>
+     <a class="btn" href="https://www.flaviapopescu.eu/offers/An2DS9Yd/checkout">Vreau cele 10 site-uri</a>
+     <p class="fine"><a href="https://www.flaviapopescu.eu/offers/g5nUZqoY/checkout" style="color:var(--crimson);font-weight:700">Vreau cele 5 certificari AI</a></p>
+    </article>
+   </div>
+  </div>
+ </section>
+
+ <section class="faq">
+  <div class="w">
+   <div class="head"><p class="k">Intrebari</p><h2>Inainte <em>sa cumperi</em></h2></div>
+   <div class="list">
+    <details><summary>Merge daca n-am lucrat niciodata remote?</summary><p>Da. Pachetele sunt facute pentru oameni care au experienta de lucru, dar nu au lucrat inca remote. Te ajuta sa iti prezinti experienta pentru companii remote.</p></details>
+    <details><summary>Merge daca nu am deloc experienta profesionala?</summary><p>E mai greu. Pachetele pornesc de la experienta pe care o ai deja. Daca nu ai lucrat deloc, incepe cu Kitul sau cu sesiunea de coaching, ca sa vezi ce roluri sunt realiste pentru tine.</p></details>
+    <details><summary>Imi gasiti voi job sau aplicati in locul meu?</summary><p>Nu. Te ajutam cu CV-ul, LinkedIn-ul si pregatirea. Aplicarile si interviurile le faci tu. Nu garantam un job sau un numar de interviuri.</p></details>
+    <details><summary>Ce nivel de engleza imi trebuie?</summary><p>Pentru majoritatea joburilor remote ai nevoie de engleza de lucru: sa scrii emailuri si sa vorbesti la un interviu. Nu trebuie sa fie perfecta. Explicatiile noastre sunt in romana.</p></details>
+    <details><summary>Se uita cineva personal pe ce lucrez?</summary><p>Doar in Challenge + feedback (197 €), in CV si LinkedIn scrise de noi (375 €) si in coaching (97 €). Kitul si Challenge-ul de 97 € nu includ feedback personal.</p></details>
+    <details><summary>Am nevoie de abonamente AI platite?</summary><p>Pachetele nu includ abonamente AI si nu iti cerem sa cumperi unul. Yago are prima scanare gratuita, iar Yago Pro e optional, 19 € pe luna.</p></details>
+    <details><summary>Cum merge Challenge-ul daca am nevoie de mai mult de 5 zile?</summary><p>Ziua 1 se deschide imediat dupa plata. Fiecare zi noua se deschide la 24 de ore dupa cea dinainte. Dupa ce se deschid, lectiile raman in contul tau si le poti face in ritmul tau. Accesul gratuit la Yago dureaza 5 zile si il activam noi, dupa ce iti faci cont in Yago cu acelasi email. Dupa aceea, Yago Pro e optional, 19 € pe luna.</p></details>
+    <details><summary>Pot lucra pentru o companie straina din Romania?</summary><p>Da. Multe companii angajeaza prin firme de tip EOR (de exemplu Deel sau Remote) sau pe contract, cu PFA sau SRL.</p></details>
+    <details><summary>Pot plati in rate?</summary><p>Da, la CV si LinkedIn scrise de noi: 3 rate lunare de 130 €, adica 390 € in total.</p></details>
+    <details><summary>Cum va contactez?</summary><p>Pe email la info@flaviapopescu.eu. Raspundem luni pana vineri, 11:00 la 17:00, ora Romaniei.</p></details>
+   </div>
+  </div>
+ </section>
+
+ <footer class="foot">
+  <div class="w">
+   <div class="big" aria-hidden="true">Flavia <em>Popescu</em></div>
+   <nav aria-label="Subsol"><a href="/produse">Produse</a><a href="/biblioteca">Resurse gratuite</a><a href="/motorul-de-reels">Motorul de Reels</a><a href="/despre">Despre</a><a href="https://www.instagram.com/flavia.popescu_" target="_blank" rel="noopener">Instagram</a><a href="/termeni-si-conditii">Termeni</a><a href="/politica-de-confidentialitate">Confidentialitate</a></nav>
+   <p class="c">© 2026 Flavia Popescu · info@flaviapopescu.eu</p>
+  </div>
+ </footer>
+ <div class="stick" id="h4-stick"><a class="btn" href="#oferte">Vezi pachetele, de la 27 €</a></div>
+</div>
+<script>
+(function(){
+ var s=document.getElementById('h4-stick'),o=document.getElementById('oferte');
+ var hero=document.querySelector('#h4 .hero'),vis={};
+ if(s&&o&&hero&&('IntersectionObserver' in window)){s.classList.add('off');var io=new IntersectionObserver(function(es){es.forEach(function(e){vis[e.target===o?'o':'h']=e.isIntersecting;});s.classList.toggle('off',!!(vis.o||vis.h));},{rootMargin:'0px 0px -20% 0px'});io.observe(o);io.observe(hero);}
+ document.querySelectorAll('#h4 .menu a').forEach(function(a){a.addEventListener('click',function(){var d=a.closest('details');if(d)d.removeAttribute('open');});});
+})();
+</script>
