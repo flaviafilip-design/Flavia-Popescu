@@ -44,3 +44,4 @@
 - Oferte: CV (2151443207) redenumita "CV si LinkedIn scrise de noi", descriere noua; Coaching (2151481278) redenumita "Coaching de cariera pentru joburi remote", descriere + thank-you fara "done for you".
 - Motorul de Reels (theme 2167857290): block nou r1 = pages/reels-r1.html (cerinte langa primul buton si sub bannerul de inchidere, cardul "Fara abonament" devine "Platesti o singura data" + abonament AI separat, demo mutat imediat dupa hero). Header CTA: "Pret si cerinte" -> #oferta.
 - Meniul principal (navbar 2149588617): Cursuri AI/#section-fl-ai -> Pachete /#oferte; Joburi remote/#section-fl-jobs -> Produse /produse; Reels/#section-fl-pain -> Motorul de Reels /motorul-de-reels. Rollback: backup/navbar-main-menu-before.json.
+- 1 nov: meniul mobil (details) inlocuit cu buton + panou in pagina (pages/menu-fix.html): Acasa in blocul h4fix, Produse in blocul nou n4menu.
